@@ -11,5 +11,17 @@
             "bio": "Ugo is a programmer specialized in enterprise application, with focus in web applications, service oriented applications and, generally, in all the environments where scalability is a top priority. Thanks to the experience earned in the latest years, Ugo is now focused on technologies like ASP.NET MVC, NodeJS, Azure, NServiceBus Nhibernate and HTML5. Thanks to this passion in web development using ASP.NET MVC, Microsoft granted him the MVP Award in this technology. Speaker for the most important Italian communities, Author of several articles and co-organizer of the widely appreciated Web.NET European Conference in 2012. Away from keybord he's a bad snowboarder but a good father.",
             "avatarUrl": "https://avatars1.githubusercontent.com/u/758620?s=460"
         }
-    }]
+    },
+    {
+        "title": "Integrate Office 365 inside a MVC application",
+        "description": "In this session we will demonstrate how easy it is to integrate inside an existing/new asp.net MVC application an Office 365 environment with the help of the Office 365 API, after that we will show through variuos code examples how easy is to interact with the users calendar, email and files. The session will also provided hints on how to do the same operations in a mobile application.",
+        "tags": ["aspnet mvc", "c#", "office365", "client dev"],
+        "author": {
+            "firstname": "Giancarlo",
+            "lastaname": "Lelli",
+            "twitter": "@itsonlyGianca",
+            "blog": "http://diaryofamsp.azurewebsites.net",
+            "bio": "Giancarlo works at iCubed srl where he provides consulting, training and software development of Microsoft related technologies with a special focus on .Net technologies and Office 365 solutions. It’s currently enrolled at the Cagliari University in the IT faculty, and he has been in the Italian team of the Microsoft Student Partners for two years. Giancarlo holds seminars in universities regarding Microsoft technologies and development of .NET platform. Themes in his works are: development of client applications for Windows 8 and Windows Phone 8, Office 365 and Windows Azure. Giancarlo is also the founder of Italian Developer Connection an Italian user group dedicated to Microsoft technologies.",
+            "avatarUrl": "https://media.licdn.com/media/p/2/005/042/2f4/2b90c23.jpg"
+    }
 }
