@@ -40,7 +40,7 @@
             }
         },
         {
-            "title": "Becoming a Visual Studio Jedi Master",
+            "title": "Visual Studio Tips & Tricks: Becoming a Jedi Master",
             "description": "Is Visual Studio your default development environment (IDE)? Do you feel that you know all there is to know about it? Would you like to know how to unlock some of its hidden features in order to boost your productivity and code more efficiently? Visual Studio's powerful IDE comes crammed with lots of features that can suprise and amaze you. Join Christos Matskas as he showcases some invaluable tips and tricks to help you become a Visual Studio Jedi Master.",
             "tags": [ "visual studio 2013", "IDE", "tips&tricks", "productivity" ],
             "author": {
