@@ -51,6 +51,19 @@
                 "bio": "Christos is a software engineer with over 10 years of experience mainly focusing on the .NET stack. He is the founder of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke, a mobile apps development company. Over the years he had the opportunity to work on some very high profile and interesting projects with great companies. He's passionate about coding and continuously strives to improve. He regularly presents to local user groups and conferences and loves speaking about technology, gadgets and code. He blogs and writes about programming regularly.",
                 "avatarUrl": "https://secure.gravatar.com/christosmatskas"
             }
+        },
+		{
+            "title": "Build modern JavaScript web applications",
+            "description": "Modern JavaScript web applications need a reliable and effective delivery system that provides automation in the build process. In this session we will show how to setup and run a complete build and unit testing engine based on Gulp.JS and Karma",
+            "tags": [ "JavaScript", "web app", "GulpJs", "build automation", "Karma", "Jasmine" ],
+            "author": {
+                "firstname": "Roberto",
+                "lastaname": "Messora",
+                "twitter": "@robymes",
+                "blog": "http://blogs.ugidotnet.org/robymes",
+                "bio": "Roberto Messora is a product manager and software architect for geospatial IT solutions based on ESRI, Microsoft .NET, and HTML5 technology stacks. In the last few years he has acquired a deep knowledge in Location Analytics and Geomarketing, delivering web applications and tools for a wide range of industries. He also believes in an effective and collaborative team environment, adopting modern ALM techniques and tools.",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/4116754?v=3&s=460"
+            }
         }
     ]
 }
