@@ -52,7 +52,7 @@
                 "avatarUrl": "https://secure.gravatar.com/christosmatskas"
             }
         },
-		{
+	      {
             "title": "Build modern JavaScript web applications",
             "description": "Modern JavaScript web applications need a reliable and effective delivery system that provides automation in the build process. In this session we will show how to setup and run a complete build and unit testing engine based on Gulp.JS and Karma",
             "tags": [ "JavaScript", "web app", "GulpJs", "build automation", "Karma", "Jasmine" ],
@@ -64,6 +64,19 @@
                 "bio": "Roberto Messora is a product manager and software architect for geospatial IT solutions based on ESRI, Microsoft .NET, and HTML5 technology stacks. In the last few years he has acquired a deep knowledge in Location Analytics and Geomarketing, delivering web applications and tools for a wide range of industries. He also believes in an effective and collaborative team environment, adopting modern ALM techniques and tools.",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/4116754?v=3&s=460"
             }
-        }
+        },
+        {
+              "title": "Create a single page web application with AngularJS",
+              "description": "AngularJS is a popular JavaScript framework for building web applications. The purpose of this session will be design and develop a simple but complete web application built with only a single web page.",
+              "tags": [ "AngularJS", "javascript", "web app" ],
+              "author": {
+                  "firstname": "Antonio",
+                  "lastaname": "Di Motta",
+                  "twitter": "@dimotta",
+                  "blog": "http://www.dimotta.net",
+                  "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specialized in project engineering, software analysis and design of software solutions about production and transportation. He is passionate of all about the web, mobile and running.",
+                  "avatarUrl": "https://secure.gravatar.com/antdimot"
+              }
+          }
     ]
 }
