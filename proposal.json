@@ -67,14 +67,14 @@
         },
         {
               "title": "Create a single page web application with AngularJS",
-              "description": "AngularJS is a popular JavaScript framework for building web applications. The purpose of this session will be design and develop a simple but complete web application built with only a single web page.",
+              "description": "The last versions of HTML, CSS and JavaScript are quickly growing in popularity, transforming the future of the Web with a high level of user experience and without any proprietary plugin. AngularJS is a main actor of this new generation of libraries and frameworks. The purpose of this session will be show the architectural concepts of the framework for supporting the development of more productive, flexible, maintainable, and testable web applications.",
               "tags": [ "AngularJS", "javascript", "web app" ],
               "author": {
                   "firstname": "Antonio",
                   "lastaname": "Di Motta",
                   "twitter": "@dimotta",
                   "blog": "http://www.dimotta.net",
-                  "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specialized in project engineering, software analysis and design of software solutions about production and transportation. He is passionate of all about the web, mobile and running.",
+                  "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience and specialized in project engineering, analysis and design of software solutions about production and transportation.",
                   "avatarUrl": "https://secure.gravatar.com/antdimot"
               }
           }
