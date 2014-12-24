@@ -66,8 +66,8 @@
             }
         },
         {
-              "title": "Create a single page web application with AngularJS",
-              "description": "The last versions of HTML, CSS and JavaScript are quickly growing in popularity, transforming the future of the Web with a high level of user experience and without any proprietary plugin. AngularJS is a main actor of this new generation of libraries and frameworks. The purpose of this session will be show the architectural concepts of the framework for supporting the development of more productive, flexible, maintainable, and testable web applications.",
+              "title": "Creating a single-page application with AngularJS",
+              "description": "The last versions of HTML, CSS and JavaScript are quickly growing in popularity, transforming the future of the Web with a high level of user experience and without any proprietary plugin. AngularJS is a main actor of new generation of libraries and frameworks. The aim of session will be show the architectural concepts of the framework for supporting the development of more productive, flexible, maintainable and testable web applications.",
               "tags": [ "AngularJS", "javascript", "web app" ],
               "author": {
                   "firstname": "Antonio",
