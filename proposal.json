@@ -77,6 +77,19 @@
                   "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specializing in project engineering, analysis and design of software solutions in the manufacturing and transport sectors.",
                   "avatarUrl": "https://secure.gravatar.com/antdimot"
               }
+        },
+        {
+              "title": "Your wish is my command",
+              "description": "When it comes to speech recognition, the first name that comes to your mind is probably Siri. There are, however, great alternatives like Wit.ai, a platform-independent service which turns speech into actionable data. In the presentation I will show how to plan and build a Wit.ai powered Laravel 5 application that you can control with your voice.",
+              "tags": [ "Speech recognition", "javascript", "web app", "wit.ai"],
+              "author": {
+                  "firstname": "Donato",
+                  "lastaname": "Rotunno",
+                  "twitter": "@ralf57",
+                  "blog": "",
+                  "bio": "Donato Rotunno is Senior (mostly) Frontend Developer at Liip AG in Fribourg, Switzerland. Passionate about modern Frontend development and web technologies, he also likes to take great care about details and User Experience in general. His experience spreads from old-style-legacy Java applications to latest, cutting-edge MVC frontend frameworks like Backbone or Ember.js. When away from his laptop, you can find him playing football, coaching kids at football camps, shooting photography and having fun with his 2 kids and his wife.",
+                  "avatarUrl": "https://avatars1.githubusercontent.com/u/208237"
+              }
         }
     ]
 }
