@@ -191,6 +191,45 @@
                   "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
                   "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
               }
-        }
+        },
+        {
+              "title": "Why Middleware?",
+              "description": "OWIN has a concept of middleware. So does ASP.NET 5. Why? What is middleware? How does it help in typical web applications? In this talk we will dive into the code, write some middleware and show how middleware helps you handle cross-cutting concerns in an isolated and re-usable way. I'll compare and contrast the OWIN and ASP.NET 5 middleware concepts and talk about where each is appropriate.",
+              "tags": [ "OWIN", "ASPNET vNext", "web","micro services"],
+              "author": {
+                  "firstname": "Christian",
+                  "lastaname": "Horsdal",
+                  "twitter": "@chr_horsdal",
+                  "blog": "http://www.horsdal-consult.dk",
+                  "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+                  "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+              }
+        },
+        {
+              "title": "Layers Considered Harmful",
+              "description": "Layers are killing us. All the time. They are killing our communication. They are killing our speed. They are killing the others speed as well. We need to do better. Which we can. I'll tell why layers are killing us. I might even tell you something about how to do better.",
+              "tags": [ "web","micro services", "architecture"],
+              "author": {
+                  "firstname": "Christian",
+                  "lastaname": "Horsdal",
+                  "twitter": "@chr_horsdal",
+                  "blog": "http://www.horsdal-consult.dk",
+                  "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+                  "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+              }
+        },
+        {
+              "title": "Advanced Nancy",
+              "description": "In this hands-on session, we will take a look how to get beyond the basics and build secure and reliable application for the Real World with Nancy. In the process, we will get into authentication, authorization, input validation and error handling and swapping out defaults for custom implementations. All in a test-friendly manner following the Super Duper Happy Path of Nancy web application development.(Part of this material is covered in my book on the Nancy web framework, part of it goes beyond that.)",
+              "tags": [ "Nancy","web"],
+              "author": {
+                  "firstname": "Christian",
+                  "lastaname": "Horsdal",
+                  "twitter": "@chr_horsdal",
+                  "blog": "http://www.horsdal-consult.dk",
+                  "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+                  "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+              }
+        }    
     ]
 }
