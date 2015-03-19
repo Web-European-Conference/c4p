@@ -79,16 +79,81 @@
               }
         },
         {
-              "title": "Your wish is my command",
-              "description": "When it comes to speech recognition, the first name that comes to your mind is probably Siri. There are, however, great alternatives like Wit.ai, a platform-independent service which turns speech into actionable data. In the presentation I will show how to plan and build a Wit.ai powered Laravel 5 application that you can control with your voice.",
-              "tags": [ "Speech recognition", "javascript", "web app", "wit.ai"],
+            "title": "Your wish is my command",
+            "description": "When it comes to speech recognition, the first name that comes to your mind is probably Siri. There are, however, great alternatives like Wit.ai, a platform-independent service which turns speech into actionable data. In the presentation I will show how to plan and build a Wit.ai powered Laravel 5 application that you can control with your voice.",
+            "tags": [ "Speech recognition", "javascript", "web app", "wit.ai" ],
+            "author": {
+                "firstname": "Donato",
+                "lastaname": "Rotunno",
+                "twitter": "@ralf57",
+                "blog": "",
+                "bio": "Donato Rotunno is Senior (mostly) Frontend Developer at Liip AG in Fribourg, Switzerland. Passionate about modern Frontend development and web technologies, he also likes to take great care about details and User Experience in general. His experience spreads from old-style-legacy Java applications to latest, cutting-edge MVC frontend frameworks like Backbone or Ember.js. When away from his laptop, you can find him playing football, coaching kids at football camps, shooting photography and having fun with his 2 kids and his wife.",
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/208237"
+            }
+        },
+        {
+              "title": "The Azure Cloud 3 Step Theorem",
+              "description": "We all know that Azure is a multi-headed beast which can either be tamed or grow wild on you, your choice. But where do we start? And I do mean literally… where do we start looking on deciding which architecture that we’re going to need on our quest for glory. This decision session will guide you in your first steps on how to go from Minimal Control to Full Control but also with all the caveats mentioned. We’ll talk about on deciding on whether to use Azure Websites, Azure Cloud Services or Azure VM’s and your use for scalable architectures.",
+              "tags": [ "azure", "cloud", "web"],
               "author": {
-                  "firstname": "Donato",
-                  "lastaname": "Rotunno",
-                  "twitter": "@ralf57",
-                  "blog": "",
-                  "bio": "Donato Rotunno is Senior (mostly) Frontend Developer at Liip AG in Fribourg, Switzerland. Passionate about modern Frontend development and web technologies, he also likes to take great care about details and User Experience in general. His experience spreads from old-style-legacy Java applications to latest, cutting-edge MVC frontend frameworks like Backbone or Ember.js. When away from his laptop, you can find him playing football, coaching kids at football camps, shooting photography and having fun with his 2 kids and his wife.",
-                  "avatarUrl": "https://avatars1.githubusercontent.com/u/208237"
+                  "firstname": "Mike",
+                  "lastaname": "Martin",
+                  "twitter": "@techmike2kx",
+                  "blog": "http://techmike2kx.wordpress.com",
+                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+              }
+        },
+        {
+              "title": "Developing Microsoft Azure Websites with Visual Studio Online 'Monaco': because it’s mundane Monaco!",
+              "description": "With Visual Studio Online or shortly VSO, Microsoft already offered a broad range of tools and services that support different kinds of development. To further build on that vision, Microsoft recently released a preview of “Monaco”, a new development service specifically designed for building and maintaining Microsoft Azure Websites. With Monaco, Microsoft provides developers with a lightweight, friction free companion to the Visual Studio IDE that is accessible from any device on any platform. It is a rich, browser based, code focused development environment optimized for the Microsoft Azure platform, making it easy to start building and maintaining applications for the cloud. In this session we will walk you through this exciting new Microsoft Azure service, show you how fast you can make changes in Monaco and how the online experience can speed up your development and offers you an even greater set of tools than the ones you already use every day. We will talk about more advanced scenarios, and show you how the extensions work, how you can leverage Git and TFS source control in combination with Monaco, and how you can even make live changes, compile them and have them reflected immediately online.",
+              "tags": [ "azure", "cloud", "web"],
+              "author": {
+                  "firstname": "Mike",
+                  "lastaname": "Martin",
+                  "twitter": "@techmike2kx",
+                  "blog": "http://techmike2kx.wordpress.com",
+                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+              }
+        },
+        {
+              "title": "The toolshed: Inside Microsoft Azure Tools : Your daily hammers",
+              "description": "Visual Studio 2013, MSFT’s flagship was released in November 2013 and people just love it. With it came the new release of the online version and also one for Microsoft Azure integrated in WAWS. This doesn’t made the choice of tooling  easier on all of us. And thus maybe it’s about time to take a look what we can do with all the available tools and which tools are your best tools of the trade. And is there such a thing as “One Tool to rule’em all”? This session will hopefully enlighten your path to Microsoft Azure Tooling (for Dev, IT Pro and asset Management)SMALL Note: this session isn’t sponsored although it’s mostly about partner solutions! Some free software may be included.",
+              "tags": [ "azure", "cloud", "web","tooling"],
+              "author": {
+                  "firstname": "Mike",
+                  "lastaname": "Martin",
+                  "twitter": "@techmike2kx",
+                  "blog": "http://techmike2kx.wordpress.com",
+                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+              }
+        },
+        {
+              "title": "Lights, Camera, Action - Microsoft Azure Media Services on the Loose",
+              "description": "You just cannot imagine the Web without audio and video services. Up until now, if you want to include streaming media content in your websites or applications, you need to rely on third party services or massive computing capacity for media transcoding, and streaming to a range of client devices. With the release of Microsoft Azure Media Services and the Media Services SDK, these capabilities are becoming easily available for you to incorporate in your websites and applications. In this session we'll give an overview of Microsoft Azure Media Services, and you'll learn from a series of demos how you can take advantage of the platform to add media content to your development. We'll also see what the competition has in store and what's missing.",
+              "tags": [ "azure", "cloud", "web","tooling", "media"],
+              "author": {
+                  "firstname": "Mike",
+                  "lastaname": "Martin",
+                  "twitter": "@techmike2kx",
+                  "blog": "http://techmike2kx.wordpress.com",
+                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+              }
+        },
+        {
+              "title": "Putting The CD In The CI With The GIT , The ALM And Other Acronyms That Don’t Make Sense When Putting Them All In One Phrase",
+              "description": "We build, deploy, and redo the same thing over and over again. If we’re lucky we find ourselves an automated system (that’s what we all hope for as consultants that is  ) And that’s all ok , but what are the best practices when doing this in the Cloud? And where can Azure help us (in combo with others that is ). A journey into Continuous integration, delivery, lifecycle and releasemanagement.",
+              "tags": [ "azure", "cloud", "web","tooling"],
+              "author": {
+                  "firstname": "Mike",
+                  "lastaname": "Martin",
+                  "twitter": "@techmike2kx",
+                  "blog": "http://techmike2kx.wordpress.com",
+                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
               }
         }
     ]
