@@ -191,6 +191,32 @@
                   "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
                   "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
               }
-        }
+        },
+        {
+        "title": "Azure Webjobs - the easiest way to use Azure",
+        "description": "If you ever wanted to use the power of Azure for processing or loading data Azure WebJobs are the easiest option. In this talk I will show the features and possibilities of the different WebJobs flavors and how you can enhance existing applications without losing the capability to run it outside of Azure.",
+        "tags": ["azure", "azure webjobs", "cloud", ".net"],
+        "author": {
+            "firstname": "Robert",
+            "lastaname": "Muehsig",
+            "twitter": "@robert0muehsig",
+            "blog": "http://blog.codeinside.eu",
+            "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+            }
+        },
+        {
+        "title": "Sign in & co. with Azure Active Directory for your Mobile-, Desktop- or Web-App - the Facebook Login for the business world",
+        "description": "In this talk I will show you how to enable 'Sign in with Azure Active Directory' for your Mobile, Desktop or Web-Applications. You need to secure Web APIs? No problem. You need an easy way to protect your Azure website? Yep. And after we made the first step, we will dig deeper to the Graph API and explore the connection between Azure Active Directory and Office 365.",
+        "tags": ["azure", "azure active directory", "identity", "security", "office365"],
+        "author": {
+            "firstname": "Robert",
+            "lastaname": "Muehsig",
+            "twitter": "@robert0muehsig",
+            "blog": "http://blog.codeinside.eu",
+            "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+			}
+		}
     ]
 }
