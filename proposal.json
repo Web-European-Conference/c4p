@@ -102,17 +102,17 @@
             }
         },
         {
-              "title": "Create a single page web application with AngularJS",
-              "description": "The latest versions of HTML, CSS and JavaScript are quickly growing in popularity, transforming the future of the Web with a rich and responsive user experience and without any proprietary plugins. AngularJS is a key driver of this new generation of libraries and frameworks. The purpose of this session will be to show the architectural concepts of the framework for supporting the development of more productive, flexible, maintainable and testable web applications.",
-              "tags": [ "AngularJS", "javascript", "web app" ],
-              "author": {
-                  "firstname": "Antonio",
-                  "lastaname": "Di Motta",
-                  "twitter": "@dimotta",
-                  "blog": "http://www.dimotta.net",
-                  "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specializing in project engineering, analysis and design of software solutions in the manufacturing and transport sectors.",
-                  "avatarUrl": "https://secure.gravatar.com/antdimot"
-              }
+            "title": "Create a single page web application with AngularJS",
+            "description": "The latest versions of HTML, CSS and JavaScript are quickly growing in popularity, transforming the future of the Web with a rich and responsive user experience and without any proprietary plugins. AngularJS is a key driver of this new generation of libraries and frameworks. The purpose of this session will be to show the architectural concepts of the framework for supporting the development of more productive, flexible, maintainable and testable web applications.",
+            "tags": [ "AngularJS", "javascript", "web app" ],
+            "author": {
+                "firstname": "Antonio",
+                "lastaname": "Di Motta",
+                "twitter": "@dimotta",
+                "blog": "http://www.dimotta.net",
+                "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specializing in project engineering, analysis and design of software solutions in the manufacturing and transport sectors.",
+                "avatarUrl": "https://secure.gravatar.com/antdimot"
+            }
         },
         {
             "title": "Your wish is my command",
@@ -128,133 +128,134 @@
             }
         },
         {
-              "title": "The Azure Cloud 3 Step Theorem",
-              "description": "We all know that Azure is a multi-headed beast which can either be tamed or grow wild on you, your choice. But where do we start? And I do mean literally… where do we start looking on deciding which architecture that we’re going to need on our quest for glory. This decision session will guide you in your first steps on how to go from Minimal Control to Full Control but also with all the caveats mentioned. We’ll talk about on deciding on whether to use Azure Websites, Azure Cloud Services or Azure VM’s and your use for scalable architectures.",
-              "tags": [ "azure", "cloud", "web"],
-              "author": {
-                  "firstname": "Mike",
-                  "lastaname": "Martin",
-                  "twitter": "@techmike2kx",
-                  "blog": "http://techmike2kx.wordpress.com",
-                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-              }
-        },
-        {
-              "title": "Developing Microsoft Azure Websites with Visual Studio Online 'Monaco': because it’s mundane Monaco!",
-              "description": "With Visual Studio Online or shortly VSO, Microsoft already offered a broad range of tools and services that support different kinds of development. To further build on that vision, Microsoft recently released a preview of “Monaco”, a new development service specifically designed for building and maintaining Microsoft Azure Websites. With Monaco, Microsoft provides developers with a lightweight, friction free companion to the Visual Studio IDE that is accessible from any device on any platform. It is a rich, browser based, code focused development environment optimized for the Microsoft Azure platform, making it easy to start building and maintaining applications for the cloud. In this session we will walk you through this exciting new Microsoft Azure service, show you how fast you can make changes in Monaco and how the online experience can speed up your development and offers you an even greater set of tools than the ones you already use every day. We will talk about more advanced scenarios, and show you how the extensions work, how you can leverage Git and TFS source control in combination with Monaco, and how you can even make live changes, compile them and have them reflected immediately online.",
-              "tags": [ "azure", "cloud", "web"],
-              "author": {
-                  "firstname": "Mike",
-                  "lastaname": "Martin",
-                  "twitter": "@techmike2kx",
-                  "blog": "http://techmike2kx.wordpress.com",
-                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-              }
-        },
-        {
-              "title": "The toolshed: Inside Microsoft Azure Tools : Your daily hammers",
-              "description": "Visual Studio 2013, MSFT’s flagship was released in November 2013 and people just love it. With it came the new release of the online version and also one for Microsoft Azure integrated in WAWS. This doesn’t made the choice of tooling  easier on all of us. And thus maybe it’s about time to take a look what we can do with all the available tools and which tools are your best tools of the trade. And is there such a thing as “One Tool to rule’em all”? This session will hopefully enlighten your path to Microsoft Azure Tooling (for Dev, IT Pro and asset Management)SMALL Note: this session isn’t sponsored although it’s mostly about partner solutions! Some free software may be included.",
-              "tags": [ "azure", "cloud", "web","tooling"],
-              "author": {
-                  "firstname": "Mike",
-                  "lastaname": "Martin",
-                  "twitter": "@techmike2kx",
-                  "blog": "http://techmike2kx.wordpress.com",
-                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-              }
-        },
-        {
-              "title": "Lights, Camera, Action - Microsoft Azure Media Services on the Loose",
-              "description": "You just cannot imagine the Web without audio and video services. Up until now, if you want to include streaming media content in your websites or applications, you need to rely on third party services or massive computing capacity for media transcoding, and streaming to a range of client devices. With the release of Microsoft Azure Media Services and the Media Services SDK, these capabilities are becoming easily available for you to incorporate in your websites and applications. In this session we'll give an overview of Microsoft Azure Media Services, and you'll learn from a series of demos how you can take advantage of the platform to add media content to your development. We'll also see what the competition has in store and what's missing.",
-              "tags": [ "azure", "cloud", "web","tooling", "media"],
-              "author": {
-                  "firstname": "Mike",
-                  "lastaname": "Martin",
-                  "twitter": "@techmike2kx",
-                  "blog": "http://techmike2kx.wordpress.com",
-                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-              }
-        },
-        {
-              "title": "Putting The CD In The CI With The GIT , The ALM And Other Acronyms That Don’t Make Sense When Putting Them All In One Phrase",
-              "description": "We build, deploy, and redo the same thing over and over again. If we’re lucky we find ourselves an automated system (that’s what we all hope for as consultants that is  ) And that’s all ok , but what are the best practices when doing this in the Cloud? And where can Azure help us (in combo with others that is ). A journey into Continuous integration, delivery, lifecycle and releasemanagement.",
-              "tags": [ "azure", "cloud", "web","tooling"],
-              "author": {
-                  "firstname": "Mike",
-                  "lastaname": "Martin",
-                  "twitter": "@techmike2kx",
-                  "blog": "http://techmike2kx.wordpress.com",
-                  "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                  "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-              }
-        },
-        {
-              "title": "Why Middleware?",
-              "description": "OWIN has a concept of middleware. So does ASP.NET 5. Why? What is middleware? How does it help in typical web applications? In this talk we will dive into the code, write some middleware and show how middleware helps you handle cross-cutting concerns in an isolated and re-usable way. I'll compare and contrast the OWIN and ASP.NET 5 middleware concepts and talk about where each is appropriate.",
-              "tags": [ "OWIN", "ASPNET vNext", "web","micro services"],
-              "author": {
-                  "firstname": "Christian",
-                  "lastaname": "Horsdal",
-                  "twitter": "@chr_horsdal",
-                  "blog": "http://www.horsdal-consult.dk",
-                  "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
-                  "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
-              }
-        },
-        {
-              "title": "Layers Considered Harmful",
-              "description": "Layers are killing us. All the time. They are killing our communication. They are killing our speed. They are killing the others speed as well. We need to do better. Which we can. I'll tell why layers are killing us. I might even tell you something about how to do better.",
-              "tags": [ "web","micro services", "architecture"],
-              "author": {
-                  "firstname": "Christian",
-                  "lastaname": "Horsdal",
-                  "twitter": "@chr_horsdal",
-                  "blog": "http://www.horsdal-consult.dk",
-                  "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
-                  "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
-              }
-        },
-        {
-              "title": "Advanced Nancy",
-              "description": "In this hands-on session, we will take a look how to get beyond the basics and build secure and reliable application for the Real World with Nancy. In the process, we will get into authentication, authorization, input validation and error handling and swapping out defaults for custom implementations. All in a test-friendly manner following the Super Duper Happy Path of Nancy web application development.(Part of this material is covered in my book on the Nancy web framework, part of it goes beyond that.)",
-              "tags": [ "Nancy","web"],
-              "author": {
-                  "firstname": "Christian",
-                  "lastaname": "Horsdal",
-                  "twitter": "@chr_horsdal",
-                  "blog": "http://www.horsdal-consult.dk",
-                  "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
-                  "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
-              }
-        },
-        {
-        "title": "Azure Webjobs - the easiest way to use Azure",
-        "description": "If you ever wanted to use the power of Azure for processing or loading data Azure WebJobs are the easiest option. In this talk I will show the features and possibilities of the different WebJobs flavors and how you can enhance existing applications without losing the capability to run it outside of Azure.",
-        "tags": ["azure", "azure webjobs", "cloud", ".net"],
-        "author": {
-            "firstname": "Robert",
-            "lastaname": "Muehsig",
-            "twitter": "@robert0muehsig",
-            "blog": "http://blog.codeinside.eu",
-            "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
-            "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+            "title": "The Azure Cloud 3 Step Theorem",
+            "description": "We all know that Azure is a multi-headed beast which can either be tamed or grow wild on you, your choice. But where do we start? And I do mean literally… where do we start looking on deciding which architecture that we’re going to need on our quest for glory. This decision session will guide you in your first steps on how to go from Minimal Control to Full Control but also with all the caveats mentioned. We’ll talk about on deciding on whether to use Azure Websites, Azure Cloud Services or Azure VM’s and your use for scalable architectures.",
+            "tags": [ "azure", "cloud", "web"],
+            "author": {
+                "firstname": "Mike",
+                "lastaname": "Martin",
+                "twitter": "@techmike2kx",
+                "blog": "http://techmike2kx.wordpress.com",
+                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
             }
         },
         {
-        "title": "Sign in & co. with Azure Active Directory for your Mobile-, Desktop- or Web-App - the Facebook Login for the business world",
-        "description": "In this talk I will show you how to enable 'Sign in with Azure Active Directory' for your Mobile, Desktop or Web-Applications. You need to secure Web APIs? No problem. You need an easy way to protect your Azure website? Yep. And after we made the first step, we will dig deeper to the Graph API and explore the connection between Azure Active Directory and Office 365.",
-        "tags": ["azure", "azure active directory", "identity", "security", "office365"],
-        "author": {
-            "firstname": "Robert",
-            "lastaname": "Muehsig",
-            "twitter": "@robert0muehsig",
-            "blog": "http://blog.codeinside.eu",
-            "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
-            "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
-			}
-		}    ]
+            "title": "Developing Microsoft Azure Websites with Visual Studio Online 'Monaco': because it’s mundane Monaco!",
+            "description": "With Visual Studio Online or shortly VSO, Microsoft already offered a broad range of tools and services that support different kinds of development. To further build on that vision, Microsoft recently released a preview of “Monaco”, a new development service specifically designed for building and maintaining Microsoft Azure Websites. With Monaco, Microsoft provides developers with a lightweight, friction free companion to the Visual Studio IDE that is accessible from any device on any platform. It is a rich, browser based, code focused development environment optimized for the Microsoft Azure platform, making it easy to start building and maintaining applications for the cloud. In this session we will walk you through this exciting new Microsoft Azure service, show you how fast you can make changes in Monaco and how the online experience can speed up your development and offers you an even greater set of tools than the ones you already use every day. We will talk about more advanced scenarios, and show you how the extensions work, how you can leverage Git and TFS source control in combination with Monaco, and how you can even make live changes, compile them and have them reflected immediately online.",
+            "tags": [ "azure", "cloud", "web"],
+            "author": {
+                "firstname": "Mike",
+                "lastaname": "Martin",
+                "twitter": "@techmike2kx",
+                "blog": "http://techmike2kx.wordpress.com",
+                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+            }
+        },
+        {
+            "title": "The toolshed: Inside Microsoft Azure Tools : Your daily hammers",
+            "description": "Visual Studio 2013, MSFT’s flagship was released in November 2013 and people just love it. With it came the new release of the online version and also one for Microsoft Azure integrated in WAWS. This doesn’t made the choice of tooling  easier on all of us. And thus maybe it’s about time to take a look what we can do with all the available tools and which tools are your best tools of the trade. And is there such a thing as “One Tool to rule’em all”? This session will hopefully enlighten your path to Microsoft Azure Tooling (for Dev, IT Pro and asset Management)SMALL Note: this session isn’t sponsored although it’s mostly about partner solutions! Some free software may be included.",
+            "tags": [ "azure", "cloud", "web","tooling"],
+            "author": {
+                "firstname": "Mike",
+                "lastaname": "Martin",
+                "twitter": "@techmike2kx",
+                "blog": "http://techmike2kx.wordpress.com",
+                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+            }
+        },
+        {
+            "title": "Lights, Camera, Action - Microsoft Azure Media Services on the Loose",
+            "description": "You just cannot imagine the Web without audio and video services. Up until now, if you want to include streaming media content in your websites or applications, you need to rely on third party services or massive computing capacity for media transcoding, and streaming to a range of client devices. With the release of Microsoft Azure Media Services and the Media Services SDK, these capabilities are becoming easily available for you to incorporate in your websites and applications. In this session we'll give an overview of Microsoft Azure Media Services, and you'll learn from a series of demos how you can take advantage of the platform to add media content to your development. We'll also see what the competition has in store and what's missing.",
+            "tags": [ "azure", "cloud", "web","tooling", "media"],
+            "author": {
+                "firstname": "Mike",
+                "lastaname": "Martin",
+                "twitter": "@techmike2kx",
+                "blog": "http://techmike2kx.wordpress.com",
+                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+            }
+        },
+        {
+            "title": "Putting The CD In The CI With The GIT , The ALM And Other Acronyms That Don’t Make Sense When Putting Them All In One Phrase",
+            "description": "We build, deploy, and redo the same thing over and over again. If we’re lucky we find ourselves an automated system (that’s what we all hope for as consultants that is  ) And that’s all ok , but what are the best practices when doing this in the Cloud? And where can Azure help us (in combo with others that is ). A journey into Continuous integration, delivery, lifecycle and releasemanagement.",
+            "tags": [ "azure", "cloud", "web","tooling"],
+            "author": {
+                "firstname": "Mike",
+                "lastaname": "Martin",
+                "twitter": "@techmike2kx",
+                "blog": "http://techmike2kx.wordpress.com",
+                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+            }
+        },
+        {
+            "title": "Why Middleware?",
+            "description": "OWIN has a concept of middleware. So does ASP.NET 5. Why? What is middleware? How does it help in typical web applications? In this talk we will dive into the code, write some middleware and show how middleware helps you handle cross-cutting concerns in an isolated and re-usable way. I'll compare and contrast the OWIN and ASP.NET 5 middleware concepts and talk about where each is appropriate.",
+            "tags": [ "OWIN", "ASPNET vNext", "web","micro services"],
+            "author": {
+                "firstname": "Christian",
+                "lastaname": "Horsdal",
+                "twitter": "@chr_horsdal",
+                "blog": "http://www.horsdal-consult.dk",
+                "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+                "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+            }
+        },
+        {
+            "title": "Layers Considered Harmful",
+            "description": "Layers are killing us. All the time. They are killing our communication. They are killing our speed. They are killing the others speed as well. We need to do better. Which we can. I'll tell why layers are killing us. I might even tell you something about how to do better.",
+            "tags": [ "web","micro services", "architecture"],
+            "author": {
+                "firstname": "Christian",
+                "lastaname": "Horsdal",
+                "twitter": "@chr_horsdal",
+                "blog": "http://www.horsdal-consult.dk",
+                "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+                "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+            }
+        },
+        {
+            "title": "Advanced Nancy",
+            "description": "In this hands-on session, we will take a look how to get beyond the basics and build secure and reliable application for the Real World with Nancy. In the process, we will get into authentication, authorization, input validation and error handling and swapping out defaults for custom implementations. All in a test-friendly manner following the Super Duper Happy Path of Nancy web application development.(Part of this material is covered in my book on the Nancy web framework, part of it goes beyond that.)",
+            "tags": [ "Nancy","web"],
+            "author": {
+                "firstname": "Christian",
+                "lastaname": "Horsdal",
+                "twitter": "@chr_horsdal",
+                "blog": "http://www.horsdal-consult.dk",
+                "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+                "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+            }
+        },
+        {
+            "title": "Azure Webjobs - the easiest way to use Azure",
+            "description": "If you ever wanted to use the power of Azure for processing or loading data Azure WebJobs are the easiest option. In this talk I will show the features and possibilities of the different WebJobs flavors and how you can enhance existing applications without losing the capability to run it outside of Azure.",
+            "tags": ["azure", "azure webjobs", "cloud", ".net"],
+            "author": {
+                "firstname": "Robert",
+                "lastaname": "Muehsig",
+                "twitter": "@robert0muehsig",
+                "blog": "http://blog.codeinside.eu",
+                "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+                "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+            }
+        },
+        {
+            "title": "Sign in & co. with Azure Active Directory for your Mobile-, Desktop- or Web-App - the Facebook Login for the business world",
+            "description": "In this talk I will show you how to enable 'Sign in with Azure Active Directory' for your Mobile, Desktop or Web-Applications. You need to secure Web APIs? No problem. You need an easy way to protect your Azure website? Yep. And after we made the first step, we will dig deeper to the Graph API and explore the connection between Azure Active Directory and Office 365.",
+            "tags": ["azure", "azure active directory", "identity", "security", "office365"],
+            "author": {
+                "firstname": "Robert",
+                "lastaname": "Muehsig",
+                "twitter": "@robert0muehsig",
+                "blog": "http://blog.codeinside.eu",
+                "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+                "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+            }
+        }
+    ]
 }
