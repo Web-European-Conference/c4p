@@ -230,6 +230,31 @@
                   "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
                   "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
               }
-        }    
-    ]
+        },
+        {
+        "title": "Azure Webjobs - the easiest way to use Azure",
+        "description": "If you ever wanted to use the power of Azure for processing or loading data Azure WebJobs are the easiest option. In this talk I will show the features and possibilities of the different WebJobs flavors and how you can enhance existing applications without losing the capability to run it outside of Azure.",
+        "tags": ["azure", "azure webjobs", "cloud", ".net"],
+        "author": {
+            "firstname": "Robert",
+            "lastaname": "Muehsig",
+            "twitter": "@robert0muehsig",
+            "blog": "http://blog.codeinside.eu",
+            "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+            }
+        },
+        {
+        "title": "Sign in & co. with Azure Active Directory for your Mobile-, Desktop- or Web-App - the Facebook Login for the business world",
+        "description": "In this talk I will show you how to enable 'Sign in with Azure Active Directory' for your Mobile, Desktop or Web-Applications. You need to secure Web APIs? No problem. You need an easy way to protect your Azure website? Yep. And after we made the first step, we will dig deeper to the Graph API and explore the connection between Azure Active Directory and Office 365.",
+        "tags": ["azure", "azure active directory", "identity", "security", "office365"],
+        "author": {
+            "firstname": "Robert",
+            "lastaname": "Muehsig",
+            "twitter": "@robert0muehsig",
+            "blog": "http://blog.codeinside.eu",
+            "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+			}
+		}    ]
 }
