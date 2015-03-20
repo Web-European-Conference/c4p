@@ -256,6 +256,32 @@
                 "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
                 "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
             }
+                    {
+            "title": "Mind the gap!",
+            "description": "An unknown Mobile 'country'. A wandering developer from Web 'city'. No idea about how to deal with the 'droids', where getting great 'apples' to eat and what 'windows' would be opened to me. The only available means of transport: the express 'JavaScript' train, the most up-to-date 'Html' Tube and the confortable and safe 'CSS' Tram. Tension, drama, action and finally, love. This is my love story with cross-platform mobile frameworks. In this talk we'll speak about the existent cross-platform mobile frameworks, talking openly about weaknesses, strengths and myths present in cross platforms, from the point of view of a newbie mobile developer. Do you want to join me on this trip? This is your talk!",
+            "tags": ["cross-platform", "mobile development", "phonegap"],
+            "author": {
+                "firstname": "Alberto",
+                "lastaname": "Lopez",
+                "twitter": "@albertuslm",
+                "blog": "http://albertolopezmartin.com/en",
+                "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
+                "avatarUrl": "http://www.gravatar.com/avatar/b3e82acd2587daeaeb5c0d0fe288e97f.png"
+            }
+        }
+        {
+            "title": "web development beyond the Web: IoT",
+            "description": "Over the latest years, the line between offline and online world becoming thinner, practically disappearing. Today, thanks to the new technologies, is possible take the control of all the things of your offline world using the power of the online world to enhance our daily business. Who didn’t ever feel that would be great having the APIs you use on the web available for your daily life? C’mon! Say hello to the fusion between Web and & IoT!",
+            "tags": ["web development", "Internet of Things"],
+            "author": {
+                "firstname": "Alberto",
+                "lastaname": "Lopez",
+                "twitter": "@albertuslm",
+                "blog": "http://albertolopezmartin.com/en",
+                "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
+                "avatarUrl": "http://www.gravatar.com/avatar/b3e82acd2587daeaeb5c0d0fe288e97f.png"
+            }
+        }
         }
     ]
 }
