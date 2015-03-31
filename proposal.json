@@ -388,6 +388,42 @@
                 "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
                 "avatarUrl": "http://www.gravatar.com/avatar/b3e82acd2587daeaeb5c0d0fe288e97f.png"
             }
+        },
+        {
+            "title": "ASP.NET 5: How to Get Your Cheese Back",
+            "description": "ASP.NET 5 is the new kid on the block, and it's here with a lot of new, unfamiliar features and concepts. As a developer, it's not yet clear why to start developing on ASP.NET 5 or, more importantly, why to move an existing, healthy project to it. I hear a lot of Questions like: 'wow, it wasn't like that before, why has it changed?' 'I'm not familiar with these concepts, so should I stick with [the thing that I am using now]?'. In this talk, I'll cover the reasons why you should start considering ASP.NET 5 by boiling it down to the tried-and-tested format: 10 top features. We'll cover everything from new project structures to unified MVC and Web API frameworks, complete with samples and clear explanations of how these things are going to affect the way you code and the way you build projects. Along the way, we'll cover other little gems like the new Configuration framework. By the end of the talk, the advantages - and potential pitfalls - of using ASP.NET 5 in terms of both runtime and development process should be crystal clear, and you'll be able to work out when's the right time to start using the latest shiny Microsoft bits.",
+            "tags": [
+                "aspnet-5", 
+                "http", 
+                "web", 
+                "dotnet"
+            ],
+            "author": {
+                "firstname": "Tugberk",
+                "lastaname": "Ugurlu",
+                "twitter": "@tourismgeek",
+                "blog": "http://tugberkugurlu.com",
+                "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
+                "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
+            }
+        },
+        {
+            "title": "Gearing up with ASP.NET 5",
+            "description": "After getting to know what ASP.NET 5 and where it is different from the previous versions, it's time to become a ninja! If you want to get a little further and look behind the curtain, this session will be for you. In this talk, I will cover more advanced features like language extensibility, hosting, in-memory end-to-end testing with samples. Also, we will have a chance to see some end to end project examples and some corner case issues you might hit. Generally, this talk will widen your visualization and hopefully, you will know where to look if you want to go one step further during your ASP.NET 5 journey.",
+            "tags": [
+                "aspnet-5", 
+                "http", 
+                "web", 
+                "dotnet"
+            ],
+            "author": {
+                "firstname": "Tugberk",
+                "lastaname": "Ugurlu",
+                "twitter": "@tourismgeek",
+                "blog": "http://tugberkugurlu.com",
+                "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
+                "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
+            }
         }
     ]
 }
