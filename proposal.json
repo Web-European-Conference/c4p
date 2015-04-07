@@ -442,5 +442,21 @@
                 "avatarUrl": "https://avatars2.githubusercontent.com/u/276876"
             }
         },
+        {
+            "title": "Extending RWD with Lightweight Client-side Device Detection",
+            "description": "The power and effectiveness of RWD is out of question; as well as the cracks that show up when the business demands full support for a variety of form factors such as smartphone and tablet. RWD is great if changes across visual breakpoints can be implemented without performance and bandwidth hits through CSS. In this session, we’ll present WURFL.js a lightweight client-side frontend for device detection. Use of WURFL.js and its twin image tailor library gives you the unparalleled chance to switch layouts across breakpoints not just when the screen width changes but also when the form factor changes and you won’t be any longer treating a smartphone device the same as a tiny resized browser window.",
+            "tags": [
+                "javascript",
+                "mobile",
+                "frontend"
+            ],
+            "author": {
+                "firstname": "Dino",
+                "lastaname": "Esposito",
+                "twitter": "@despos",
+                "bio": "CTO @ http://Crionet.com , mobile strategist, software architect, trainer, book author, father of a genius or two. Would like to be a tennis player too.",
+                "avatarUrl": "https://pbs.twimg.com/profile_images/558543071726411776/lXpBBh9Q_400x400.jpeg"
+            }
+        },
     ]
 }
