@@ -458,5 +458,21 @@
                 "avatarUrl": "https://pbs.twimg.com/profile_images/558543071726411776/lXpBBh9Q_400x400.jpeg"
             }
         },
+        {
+            "title": "Lightning Components: A JavaScript Component Framework for Enterprise Multi Tenant Architecture",
+            "description": "For years, Salesforce has been developing their next generation open source Javascript component framework for internal usage. It has now been opened up and put in the wild for any developer using the Salesforce platform to build a custom UI. This talk will be a walk through of code and architecture to discover how we are solving the unique problems of Enterprise multi-tenancy in a client-side Javascript framework.",
+            "tags": [
+                "javascript",
+                "enterprise",
+                "multi tenant"
+            ],
+            "author": {
+                "firstname": "Peter",
+                "lastaname": "Chittum",
+                "twitter": "@pchittum",
+                "bio": "Expat yank, French-speaking, developer, who lives in the UK. In enterprise software for over 15 years and currently working for Salesforce as a Developer Evangelist in the EMEA region. Never found time to specialize in any one thing, but I love to share what I know.",
+                "avatarUrl": "http://www.gravatar.com/avatar/b065413f369c62f5d99245fea052b667.png"
+            }
+        }
     ]
 }
