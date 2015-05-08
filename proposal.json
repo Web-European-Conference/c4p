@@ -474,26 +474,6 @@
                 "bio": "Expat yank, French-speaking, developer, who lives in the UK. In enterprise software for over 15 years and currently working for Salesforce as a Developer Evangelist in the EMEA region. Never found time to specialize in any one thing, but I love to share what I know.",
                 "avatarUrl": "http://www.gravatar.com/avatar/b065413f369c62f5d99245fea052b667.png"
             }
-        },
-        {
-            "title": "The Platform Era: 7 Steps to a great API",
-            "description": "As developers, we all get rapidly convinced that a REST platform is the best way to enpower software. However, it can become difficult to transform Roy Fielding's mantras into real added value for a piece of software, a product or the company itself. Driving the platform construction as a designer or as an architect involves seeing further than just software. In this session, I propose you a journey towards a REST software platform. First, I will spend time on design and technical issues. Then, I will talk about the product, the business & market vision and how to convince your boss, to finally discuss organization and human considerations. The goal is to give developers and designers all the keys to build a platform.",
-            "tags": [
-                "platform", 
-                "design", 
-                "rest", 
-                "services", 
-                "api", 
-                "frontend", 
-                "backend"
-            ],
-            "author": {
-                "firstname": "Aline",
-                "lastaname": "Paponaud",
-                "twitter": "@bootis",
-                "bio": "A software engineer, convinced that code can change the world... And trying everyday to do so! Currently designing and developing solutions for RESTful platforms. Always happy to learn new stuff and share what I know, I also spent some time into bringing software programming concepts to the highest amount of people.",
-                "avatarUrl": "https://pbs.twimg.com/profile_images/378800000867216937/ZrO4dNoy.jpeg"
-            }
         }
     ]
 }
