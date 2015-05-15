@@ -11,7 +11,7 @@
             ],
             "author": {
                 "firstname": "Ugo",
-                "lastaname": "Lattanzi",
+                "lastname": "Lattanzi",
                 "twitter": "@imperugo",
                 "blog": "http://tostring.it",
                 "bio": "Ugo is a programmer specialized in enterprise application, with focus in web applications, service oriented applications and, generally, in all the environments where scalability is a top priority. Thanks to the experience earned in the latest years, Ugo is now focused on technologies like ASP.NET MVC, NodeJS, Azure, NServiceBus Nhibernate and HTML5. Thanks to this passion in web development using ASP.NET MVC, Microsoft granted him the MVP Award in this technology. Speaker for the most important Italian communities, Author of several articles and co-organizer of the widely appreciated Web.NET European Conference in 2012. Away from keybord he's a bad snowboarder but a good father.",
@@ -29,7 +29,7 @@
             ],
             "author": {
                 "firstname": "Massimiliano",
-                "lastaname": "Mantione",
+                "lastname": "Mantione",
                 "twitter": "@M_a_s_s_1",
                 "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
@@ -47,7 +47,7 @@
             ],
             "author": {
                 "firstname": "Massimiliano",
-                "lastaname": "Mantione",
+                "lastname": "Mantione",
                 "twitter": "@M_a_s_s_1",
                 "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
@@ -64,7 +64,7 @@
             ],
             "author": {
                 "firstname": "Massimiliano",
-                "lastaname": "Mantione",
+                "lastname": "Mantione",
                 "twitter": "@M_a_s_s_1",
                 "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
@@ -81,7 +81,7 @@
             ],
             "author": {
                 "firstname": "Giancarlo",
-                "lastaname": "Lelli",
+                "lastname": "Lelli",
                 "twitter": "@itsonlyGianca",
                 "blog": "http://diaryofamsp.azurewebsites.net",
                 "bio": "Giancarlo works at iCubed srl where he provides consulting, training and software development of Microsoft related technologies with a special focus on .Net technologies and Office 365 solutions. It’s currently enrolled at the Cagliari University in the IT faculty, and he has been in the Italian team of the Microsoft Student Partners for two years. Giancarlo holds seminars in universities regarding Microsoft technologies and development of .NET platform. Themes in his works are: development of client applications for Windows 8 and Windows Phone 8, Office 365 and Windows Azure. Giancarlo is also the founder of Italian Developer Connection an Italian user group dedicated to Microsoft technologies.",
@@ -99,7 +99,7 @@
             ],
             "author": {
                 "firstname": "Christos",
-                "lastaname": "Matskas",
+                "lastname": "Matskas",
                 "twitter": "@christosmatskas",
                 "blog": "https://cmatskas.com",
                 "bio": "Christos is a software engineer with over 10 years of experience mainly focusing on the .NET stack. He is the founder of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke, a mobile apps development company. Over the years he had the opportunity to work on some very high profile and interesting projects with great companies. He's passionate about coding and continuously strives to improve. He regularly presents to local user groups and conferences and loves speaking about technology, gadgets and code. He blogs and writes about programming regularly.",
@@ -117,7 +117,7 @@
             ],
             "author": {
                 "firstname": "Christos",
-                "lastaname": "Matskas",
+                "lastname": "Matskas",
                 "twitter": "@christosmatskas",
                 "blog": "https://cmatskas.com",
                 "bio": "Christos is a software engineer with over 10 years of experience mainly focusing on the .NET stack. He is the founder of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke, a mobile apps development company. Over the years he had the opportunity to work on some very high profile and interesting projects with great companies. He's passionate about coding and continuously strives to improve. He regularly presents to local user groups and conferences and loves speaking about technology, gadgets and code. He blogs and writes about programming regularly.",
@@ -137,7 +137,7 @@
             ],
             "author": {
                 "firstname": "Roberto",
-                "lastaname": "Messora",
+                "lastname": "Messora",
                 "twitter": "@robymes",
                 "blog": "http://blogs.ugidotnet.org/robymes",
                 "bio": "Roberto Messora is a product manager and software architect for geospatial IT solutions based on ESRI, Microsoft .NET, and HTML5 technology stacks. In the last few years he has acquired a deep knowledge in Location Analytics and Geomarketing, delivering web applications and tools for a wide range of industries. He also believes in an effective and collaborative team environment, adopting modern ALM techniques and tools.",
@@ -154,7 +154,7 @@
             ],
             "author": {
                 "firstname": "Antonio",
-                "lastaname": "Di Motta",
+                "lastname": "Di Motta",
                 "twitter": "@dimotta",
                 "blog": "http://www.dimotta.net",
                 "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specializing in project engineering, analysis and design of software solutions in the manufacturing and transport sectors.",
@@ -172,7 +172,7 @@
             ],
             "author": {
                 "firstname": "Donato",
-                "lastaname": "Rotunno",
+                "lastname": "Rotunno",
                 "twitter": "@ralf57",
                 "blog": "",
                 "bio": "Donato Rotunno is Senior (mostly) Frontend Developer at Liip AG in Fribourg, Switzerland. Passionate about modern Frontend development and web technologies, he also likes to take great care about details and User Experience in general. His experience spreads from old-style-legacy Java applications to latest, cutting-edge MVC frontend frameworks like Backbone or Ember.js. When away from his laptop, you can find him playing football, coaching kids at football camps, shooting photography and having fun with his 2 kids and his wife.",
@@ -189,7 +189,7 @@
             ],
             "author": {
                 "firstname": "Mike",
-                "lastaname": "Martin",
+                "lastname": "Martin",
                 "twitter": "@techmike2kx",
                 "blog": "http://techmike2kx.wordpress.com",
                 "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
@@ -206,7 +206,7 @@
             ],
             "author": {
                 "firstname": "Mike",
-                "lastaname": "Martin",
+                "lastname": "Martin",
                 "twitter": "@techmike2kx",
                 "blog": "http://techmike2kx.wordpress.com",
                 "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
@@ -224,7 +224,7 @@
             ],
             "author": {
                 "firstname": "Mike",
-                "lastaname": "Martin",
+                "lastname": "Martin",
                 "twitter": "@techmike2kx",
                 "blog": "http://techmike2kx.wordpress.com",
                 "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
@@ -243,7 +243,7 @@
             ],
             "author": {
                 "firstname": "Mike",
-                "lastaname": "Martin",
+                "lastname": "Martin",
                 "twitter": "@techmike2kx",
                 "blog": "http://techmike2kx.wordpress.com",
                 "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
@@ -261,7 +261,7 @@
             ],
             "author": {
                 "firstname": "Mike",
-                "lastaname": "Martin",
+                "lastname": "Martin",
                 "twitter": "@techmike2kx",
                 "blog": "http://techmike2kx.wordpress.com",
                 "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
@@ -279,7 +279,7 @@
             ],
             "author": {
                 "firstname": "Christian",
-                "lastaname": "Horsdal",
+                "lastname": "Horsdal",
                 "twitter": "@chr_horsdal",
                 "blog": "http://www.horsdal-consult.dk",
                 "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
@@ -296,7 +296,7 @@
             ],
             "author": {
                 "firstname": "Christian",
-                "lastaname": "Horsdal",
+                "lastname": "Horsdal",
                 "twitter": "@chr_horsdal",
                 "blog": "http://www.horsdal-consult.dk",
                 "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
@@ -312,7 +312,7 @@
             ],
             "author": {
                 "firstname": "Christian",
-                "lastaname": "Horsdal",
+                "lastname": "Horsdal",
                 "twitter": "@chr_horsdal",
                 "blog": "http://www.horsdal-consult.dk",
                 "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
@@ -330,7 +330,7 @@
             ],
             "author": {
                 "firstname": "Robert",
-                "lastaname": "Muehsig",
+                "lastname": "Muehsig",
                 "twitter": "@robert0muehsig",
                 "blog": "http://blog.codeinside.eu",
                 "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
@@ -349,7 +349,7 @@
             ],
             "author": {
                 "firstname": "Robert",
-                "lastaname": "Muehsig",
+                "lastname": "Muehsig",
                 "twitter": "@robert0muehsig",
                 "blog": "http://blog.codeinside.eu",
                 "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
@@ -366,7 +366,7 @@
             ],
             "author": {
                 "firstname": "Alberto",
-                "lastaname": "Lopez",
+                "lastname": "Lopez",
                 "twitter": "@albertuslm",
                 "blog": "http://albertolopezmartin.com/en",
                 "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
@@ -382,7 +382,7 @@
             ],
             "author": {
                 "firstname": "Alberto",
-                "lastaname": "Lopez",
+                "lastname": "Lopez",
                 "twitter": "@albertuslm",
                 "blog": "http://albertolopezmartin.com/en",
                 "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
@@ -400,7 +400,7 @@
             ],
             "author": {
                 "firstname": "Tugberk",
-                "lastaname": "Ugurlu",
+                "lastname": "Ugurlu",
                 "twitter": "@tourismgeek",
                 "blog": "http://tugberkugurlu.com",
                 "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
@@ -418,7 +418,7 @@
             ],
             "author": {
                 "firstname": "Tugberk",
-                "lastaname": "Ugurlu",
+                "lastname": "Ugurlu",
                 "twitter": "@tourismgeek",
                 "blog": "http://tugberkugurlu.com",
                 "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
@@ -436,7 +436,7 @@
             ],
             "author": {
                 "firstname": "Emanuele",
-                "lastaname": "DelBono",
+                "lastname": "DelBono",
                 "twitter": "@emadb",
                 "bio": "I’m web developer passionate about programming languages. I work in a software house based in Italy where I develop web applications in C#, Ruby and Javascript and hopefully Elixir. I strive for good design, clean code and software that make this world a little better.",
                 "avatarUrl": "https://avatars2.githubusercontent.com/u/276876"
@@ -452,7 +452,7 @@
             ],
             "author": {
                 "firstname": "Dino",
-                "lastaname": "Esposito",
+                "lastname": "Esposito",
                 "twitter": "@despos",
                 "bio": "CTO @ http://Crionet.com , mobile strategist, software architect, trainer, book author, father of a genius or two. Would like to be a tennis player too.",
                 "avatarUrl": "https://pbs.twimg.com/profile_images/558543071726411776/lXpBBh9Q_400x400.jpeg"
@@ -468,11 +468,133 @@
             ],
             "author": {
                 "firstname": "Peter",
-                "lastaname": "Chittum",
+                "lastname": "Chittum",
                 "twitter": "@pchittum",
                 "blog": "http://pchittum.com",
                 "bio": "Expat yank, French-speaking, developer, who lives in the UK. In enterprise software for over 15 years and currently working for Salesforce as a Developer Evangelist in the EMEA region. Never found time to specialize in any one thing, but I love to share what I know.",
                 "avatarUrl": "http://www.gravatar.com/avatar/b065413f369c62f5d99245fea052b667.png"
+            }
+        },
+                {
+            "title": "Gulp",
+            "description": "Gulp is a relative new kid on the block when it comes down to javascript based task runners. However it gained a fast paced uprise and has also become the preferred choice by Microsoft in ASP.NET 5, but not limited to that. This session will give you an introduction to Gulp and where you can use it in your daily development efforts. This is a level 300 session.",
+            "tags": [
+                "javascript",
+                "enterprise",
+                "gulp",
+                "task runner"
+            ],
+            "author": {
+                "firstname": "Kris",
+                "lastname": "van der Mast",
+                "twitter": "@KvdM",
+                "blog": "http://www.krisvandermast.com",
+                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+            }
+        },
+        {
+            "title": "Code with Visual Studio Online (codename Monaco)",
+            "description": "Visual Studio Online, formerly codenamed Monaco, is a great addition to Microsoft Azure Web Apps. It provides the means to develop new sites from scratch or change deployed material inside the browser. Come to this session to learn all about it. This is a level 300 session.",
+            "tags": [
+                "visual studio",
+                "azure",
+                "microsoft",
+                "web apps",
+                "monaco"
+            ],
+            "author": {
+                "firstname": "Kris",
+                "lastname": "van der Mast",
+                "twitter": "@KvdM",
+                "blog": "http://www.krisvandermast.com",
+                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+            }
+        },
+        {
+            "title": "ASP.NET 5",
+            "description": "Microsoft has been working hard the last years to ship this product and it's not a simple version next. A lot has changed behind the covers to build a better framework that has a better performance and things like TagHelpers. Come and see this session if you want to keep up to speed with the latest and greatest. This is a level 300 session.",
+            "tags": [
+                "asp.net 5",
+                "microsoft"
+            ],
+            "author": {
+                "firstname": "Kris",
+                "lastname": "van der Mast",
+                "twitter": "@KvdM",
+                "blog": "http://www.krisvandermast.com",
+                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+            }
+        },
+        {
+            "title": "F12 tools in IE and Microsoft Edge",
+            "description": "Life as a web developer has become increasingly more complex during the years. Luckily modern browsers provide handy developer, so called F12, tools. This session will show what you can do with the tools inside IE 11 and Microsoft Edge. This is a level 300 session.",
+            "tags": [
+                "F12 tools",
+                "microsoft",
+                "microsoft Edge",
+                "web development"
+            ],
+            "author": {
+                "firstname": "Kris",
+                "lastname": "van der Mast",
+                "twitter": "@KvdM",
+                "blog": "http://www.krisvandermast.com",
+                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+            }
+        },
+        {
+            "title": "ASP.NET 5 TagHelpers",
+            "description": "This session is all about the new taghelpers in ASP.NET 5. It's your way make much cleaner markup focussed views even your web designer will love. This is a level 300 session.",
+            "tags": [
+                "asp.net 5",
+                "taghelpers",
+                "microsoft"
+            ],
+            "author": {
+                "firstname": "Kris",
+                "lastname": "van der Mast",
+                "twitter": "@KvdM",
+                "blog": "http://www.krisvandermast.com",
+                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+            }
+        },
+        {
+            "title": "Azure App Service",
+            "description": "Microsoft Azure is constantly on the move. One of the offerings introduced in 2015 was Azure App Services, which enables you to create applications more easily in a mobile first, cloud first world we live in today. This session gives you an overview of what you can do with the new offerings. This is a level 300 session.",
+            "tags": [
+                "azure",
+                "microsoft",
+                "app service"
+            ],
+            "author": {
+                "firstname": "Kris",
+                "lastname": "van der Mast",
+                "twitter": "@KvdM",
+                "blog": "http://www.krisvandermast.com",
+                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+            }
+        },
+        {
+            "title": "Sharepoint Provider hosted apps for web developers",
+            "description": "Most developers are not keen on Sharepoint development. With the new Sharepoint Provider Hosted Apps offering Microsoft provides us with a new way of developing while bringing your ASP.NET skills with you. This is a level 300 session.",
+            "tags": [
+                "sharepoint",
+                "web development",
+                "microsoft"
+            ],
+            "author": {
+                "firstname": "Kris",
+                "lastname": "van der Mast",
+                "twitter": "@KvdM",
+                "blog": "http://www.krisvandermast.com",
+                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
             }
         }
     ]
