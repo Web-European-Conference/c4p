@@ -596,6 +596,23 @@
                 "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
             }
+        },
+        {
+            "title": "Hack! Compile React components to Django",
+            "description": "A retrospective of building a source-to-source compiler to translate React components written in JavaScript into Django templates; from the basic architecture of a compiler to an example of compiled React component",
+            "tags": [
+                "react",
+                "javascript",
+                "python"
+            ],
+            "author": {
+                "firstname": "Daniele",
+                "lastname": "Esposti",
+                "twitter": "@expobrain",
+                "blog": "http://www.expobrain.net",
+                "bio": "Daniele is a developer with experience in desktop applications and back-end web services. His job is to design and implements scalable systems using Python as a main language. He likes to understand the technology at a low level, not just using it. His dream is to become an astrounaut.",
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/2404909"
+            }
         }
     ]
 }
