@@ -596,6 +596,24 @@
                 "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
             }
-        }
+        },
+	{
+	    "title": "Rapid Mobile Development with Ionic framework",
+	    "description": "Meet Ionic, the best tool for faster go-to market strategy. Nowadays, developing mobile applications is about both technology and development time/cost. It's a hot topic for large companies and small startups who need to go to market quickly and cost-effectively. Ionic is the perfect tool for the rapid cross-platform development of high-quality mobile apps.",
+	    "tags": [
+		"ionic framework",
+		"mobile development",
+		"hybrid apps",
+		"angular js"
+	    ],
+	    "author": {
+		"firstname": "Alessio",
+		"lastname": "Delmonti",
+		"twitter": "@alexintosh",
+		"blog": null,
+		"bio": "Alessio Delmonti is passionate about software development and innovation processes. Since 2007, he has been involved in a series of web and mobile projects for clients like Vileda, MTV, Bacardi, and Premium Retail. In 2013, he co-founded his first startup, Wiralist, where he currently works as chief technology officer. He also founded and manages the italian community of Ionic framework",
+		"avatarUrl": "https://pbs.twimg.com/profile_images/497193387707998209/JGVlyH9l.jpeg"
+	    }
+	}
     ]
 }
