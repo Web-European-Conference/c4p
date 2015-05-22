@@ -633,6 +633,177 @@
                 "bio": "Daniele is a developer with experience in desktop applications and back-end web services. His job is to design and implements scalable systems using Python as a main language. He likes to understand the technology at a low level, not just using it. His dream is to become an astrounaut.",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/2404909"
             }
+        },
+        {
+            "title": "Fun with Functional JavaScript",
+            "description": "It might be a surprise for some of you, but JavaScript can be regarded as a functional programming language. Why don't we use more functional programming concepts in our JavaScript code, then? In this talk you will learn how to start including some of them in your applications and when they might be particularly beneficial. You will also get familiar with libraries that extend the functional capabilities of JavaScript (lodash and FunctionalJS) and the upcoming ES6 features that make JavaScript even more functional.",
+            "tags": [
+                "JavaScript",
+                "FunctionalProgramming",
+                "ES6",
+                "underscore",
+                "loadash"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "FutureJS - ES6, ES7 and beyond",
+            "description": "No, FutureJS is neither a new framework nor a library that you will hear everyone in the office talking about. This talk is actually about the future of JavaScript, or rather EcmaScript, as that is its official name.The process of standardising EcmaScript 6 (aka Harmony) is finally reaching its final stages. The ES Commitee also uncovered plans for the future editions of the language (ES7 and beyond). It's time we started getting to know all new features that we will all be using in a few years time. Actually, we can do even better! We can start using the most interesting and useful features right now thanks to ES6 compilers like Google's Traceur. They will translate the new ES6 code to its ES5 equivalent form, which our current browsers can understand and execute. In this talk you will learn what are the most exciting new ES6 features as well as how to start using them right now thanks to Traceur.",
+            "tags": [
+                "JavaScript",
+                "ES6",
+                "ES7",
+                "EcmaScript",
+                "Traceur",
+                "Babel"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "Seriously, you should start testing that JavaScript code",
+            "description": "I think most professional programmers would agree that we should unit test our code to some degree. And usually that unit testing is happening in our back-end code, but what about our front-end? Yes, I am talking about our (increasingly large) JavaScript codebase. Those hundreds of lines of code could benefit a lot from being unit tested. Seriously, it could possibly save you a lot of problems down the line when you add a new feature without realizing that it breaks something else in the system. With tests in place you will know immediately (even right after saving the file with the new code changes). Without tests you will learn about it from your QA staff (if you’re lucky enough to have them) or from your end customer. In this talk you will get to know the tools (Karma, Jasmine, PhantomJS and Grunt) that make unit testing your JavaScript code a real pleasure.",
+            "tags": [
+                "JavaScript",
+                "Testing",
+                "UnitTests",
+                "Karma",
+                "Jasmine",
+                "PhantomJS",
+                "Grunt",
+                "TestAutomation"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "How NOT to design your API",
+            "description": "I spent the past few years integrating with various APIs in the world of ecommerce. Oh, the things I’ve seen and the pain I’ve endured… When you want to use a 3rd party API you can expect everything - from having to implement your own XML-RPC API to reading documentation that blatantly states: “Our wsdl can contain little errors which would make your integration difficult”. Having been through all this I believe it is very important to promote good standards of API design to save future programmers from the API hell. In this talk I will show you concrete examples of questionable API design decisions and suggest some better alternatives that won’t cause unnecessary hair loss for the developers who integrate with your API.",
+            "tags": [
+                "API",
+                "WorstPractices",
+                "PainfulIntegrations",
+                "RageDrivenDevelopment",
+                "REST",
+                "XML-RPC"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "OO considered harmful",
+            "description": "Object Oriented Languages have been mainstream for a few decades now. It might be a worthwhile exercise to step back and take a look at the pros and cons of using them in our projects. Is OO living up to the (very high) expectations? Is it simplifying our work or making it more complicated? The more experience I have with OO designs the more I realize that something is amiss. I believe that we are doing ourselves a disservice by blindly following OO principles because sometimes we might find another approach that would work out better for us. In this talk I will do my best to convince you that we should strive to do better than OO. At the very least I would like to make you question the technology choices on your next project and not choose OO as the default.",
+            "tags": [
+                "ObjectOrientation",
+                "Overkill",
+                "OverlyComplex",
+                "SimplicityMatters"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "Introduction to hybrid mobile apps with the Ionic Framework",
+            "description": "A revolution in mobile development is happening right in front of our very eyes, folks. Just a few years ago you wouldn’t even dream of creating a web app and being able to package it for App Store on iOS and Google Play on Android. Nowadays such tricks are finally possible and in this talk you will learn how to create a mobile app in a matter of minutes leveraging your existing knowledge of standard web technologies. All this thanks to the Ionic Framework. But that’s not all! You will also see how to make use of native device capabilities (e.g. flashlight, accelerometer etc.) in your apps in order to make them much more integrated than it was ever possible before.",
+            "tags": [
+                "JavaScript",
+                "Ionic",
+                "Cordova",
+                "AngularJS",
+                "HybridMobileApps",
+                "iOS",
+                "Android"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "Getting started with Meteor",
+            "description": "The world of JavaScript Frameworks is constantly evolving. It seems that almost every month there is a brand new thing that will revolutionise web development. However, having a closer look you don’t really see much revolutionary stuff in those new frameworks - they are usually just a small step forward from the previous thing. At least that’s how I felt in the past few years of doing JavaScript. Until I discovered Meteor, that is. It was enough to complete the getting started tutorial to realise that I’m dealing with a potential game-changer. First imagine that all communications happen via web sockets (way faster than REST API calls over HTTP). Then realise that you have a full blown MongoDB implementation accessible on the client side. Finally, remember that from now on you just need one programming language - JavaScript - to implement the whole application - from the client-side through to the back-end and all the way down to the database. In this talk you will see all this goodness brought together in one great package that is called Meteor.",
+            "tags": [
+                "JavaScript",
+                "Meteor",
+                "Reactive",
+                "MongoDB",
+                "LatencyCompensation",
+                "DeveloperOriented",
+                "MakeLifeEasier"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "Getting started with ClojureScript",
+            "description": "Functional programming is all the rage lately. It is now taking the world of JavaScript by storm thanks to the growing popularity of ClojureScript - the JS implementation of one of the most popular functional programming languages - Clojure. In this talk you will get a gentle, but thorough introduction to the core concepts of functional programming as well as to the basic concepts of Clojure. Thanks to the numerous live-coded samples you will be able to get a feel of the language and formulate your own opinion about it.",
+            "tags": [
+                "JavaScript",
+                "Clojure",
+                "ClojureScript",
+                "FunctionalProgramming",
+                "LISP"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
+        },
+        {
+            "title": "Aurelia - welcome to the future of JavaScript frameworks",
+            "description": "With the adoption of ES6 fast approaching and even more ambitious plans for JavaScript as we move forward (thanks to the exciting new features in ES7 and beyond), it seems to be a good time to evaluate the tools that we use for our front-end development. Aurelia - a new framework from Rob Eisenberg, the creator of Durandal and a former core member of the Angular team - shows us a glimpse of the future. A future where our framework is forward thinking (using ES6 and ES7 language features), ready to cooperate with Web Components and manages to seamlessly integrate into our development workflow. Come and see the future. It’s happening now!",
+            "tags": [
+                "JavaScript",
+                "Aurelia",
+                "TwoWayDataBinding",
+                "ES6",
+                "ES7",
+                "FrameworkOfTheFuture"
+            ],
+            "author": {
+                "firstname": "Kuba",
+                "lastname": "Walinski",
+                "twitter": "@kubawalinski",
+                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+            }
         }
     ]
 }
