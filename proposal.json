@@ -596,6 +596,26 @@
                 "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
             }
+        },
+        {
+            "title": "I have inherited a large, complex, messy, sh*tty CSS codebase. And now?",
+            "description": "There are lots of methodologies, approaches, blog posts, guides that tell you how to structure your CSS code. Everything looks nice and easy when you can start from scratch. But what happens when you inherit a large codebase, so complex, tangled and messy that every time you touch something, something else breaks? Where do you start to tackle the problem, how can you refactor the code? Which libraries/frameworks/approaches/patterns can help you in this process? In this talk I'll try to give an answer to all of these questions.",
+            "tags": [
+                "sass",
+                "css",
+                "architecture",
+                "refactoring",
+                "styleguides",
+                "bem"
+            ],
+            "author": {
+                "firstname": "Cristiano",
+                "lastname": "Rastelli",
+                "twitter": "@areaweb",
+                "blog": "http://www.didoo.net",
+                "bio": "Passionate web designer & developer, I like to think of myself as a builder of bridges between business, design and development. I attend technical conferences and meetups, and sometimes it even happens that I speak there.",
+                "avatarUrl": "https://pbs.twimg.com/profile_images/2902201348/82fa1708dbf3783cb7bbb6907c7871fa_400x400.png"
+            }
         }
     ]
 }
