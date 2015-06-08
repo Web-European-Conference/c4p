@@ -1,827 +1,865 @@
 {
-    "proposal": [
-        {
-            "title": "You Can Have it Both Ways: Using Web Components in a React UI",
-            "description": "Say that you really like how React.js works, and you are building the UI of your web application in React, using React components. But say that there is some Web Component around that is exactly what you need, and you'd like to use it (after all, that's the main point of web components: to be easily reusable). In this talk we'll see how you can have your cake and eat it too, reusing existing web components inside the React virtual DOM.",
-            "tags": [
-                "JavaScript",
-                "React",
-                "WebComponents",
-                "SPA"
-            ],
-            "author": {
-                "firstname": "Massimiliano",
-                "lastname": "Mantione",
-                "twitter": "@M_a_s_s_1",
-                "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
-            }
-        },
-        {
-            "title": "Transducers FTW!",
-            "description": "Over time we have seen several utility frameworks for dealing with Javascript data structures and processing abstractions. It all started simple with Underscode, became more functional with Lodash, and reached the Next Level with Rambda. Then it got a bit messy when developers looked for a way out of callback hell, initially through promises and futures and then with one of the reactive frameworks like Rx, Bacon, Highland, Kefir... Then the Clojure world brought us transducers. They redefine the idea of processing a sequence encompassing the usual map, reduce, and filter functions, and can be applied to both synchronous and asynchronous computations. In this talk we will see how to use them in Javascript, and especially how they can help you writing better code.",
-            "tags": [
-                "JavaScript",
-                "promises",
-                "async",
-                "reactive",
-                "transducers"
-            ],
-            "author": {
-                "firstname": "Massimiliano",
-                "lastname": "Mantione",
-                "twitter": "@M_a_s_s_1",
-                "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
-            }
-        },
-        {
-            "title": "Metascript: Beyond Javascript Limitations",
-            "description": "There are a lot of languages that compile to Javascript, so creating another one is an effort hard to justify from a practical standpoint. Yet none of them provides what is really important for me, so I decided to do it: Metascript is la programming language that focuses on true Lisp-like metaprogramming, a clean and readable systax, embracing the Javascript platform and echosystem, and leaving the door open to optional static type checking. Of all these things metaprogramming is the least understood, so the talk will focus on how Lisp-like macros can transform an ordinary programmng language into an extremely practical tool to describe solutions to problems in a readable way.",
-            "tags": [
-                "JavaScript",
-                "ES5",
-                "ES6",
-                "metaprogramming"
-            ],
-            "author": {
-                "firstname": "Massimiliano",
-                "lastname": "Mantione",
-                "twitter": "@M_a_s_s_1",
-                "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
-            }
-        },
-        {
-            "title": "Integrate Office 365 inside a MVC application",
-            "description": "In this session we will demonstrate how easy it is to integrate inside an existing/new asp.net MVC application an Office 365 environment with the help of the Office 365 API, after that we will show through variuos code examples how easy is to interact with the users calendar, email and files. The session will also provided hints on how to do the same operations in a mobile application.",
-            "tags": [
-                "aspnet mvc",
-                "c#",
-                "office365",
-                "client dev"
-            ],
-            "author": {
-                "firstname": "Giancarlo",
-                "lastname": "Lelli",
-                "twitter": "@itsonlyGianca",
-                "blog": "http://diaryofamsp.azurewebsites.net",
-                "bio": "Giancarlo works at iCubed srl where he provides consulting, training and software development of Microsoft related technologies with a special focus on .Net technologies and Office 365 solutions. It’s currently enrolled at the Cagliari University in the IT faculty, and he has been in the Italian team of the Microsoft Student Partners for two years. Giancarlo holds seminars in universities regarding Microsoft technologies and development of .NET platform. Themes in his works are: development of client applications for Windows 8 and Windows Phone 8, Office 365 and Windows Azure. Giancarlo is also the founder of Italian Developer Connection an Italian user group dedicated to Microsoft technologies.",
-                "avatarUrl": "https://media.licdn.com/media/p/2/005/042/2f4/2b90c23.jpg"
-            }
-        },
-        {
-            "title": "Meet the new kid on the block - Microsoft's new ASP.NET is going to rock your world",
-            "description": "Imagine if you could write an ASP.NET application in notepad, compile it and run it on a Mac OS X. Imagine if you could mix and match WebForms, MVC and Web API within the project. How would you feel if you could create a faster, leaner and more memory efficient ASP.NET application that has been freed from the shackles of Microsoft and the .NET framework and all you need is your coding skills, a couple of NuGet packages and your imagination? If all these sound like a dream come true, then come join me for an introduction to Microsoft’s ASP.NET vNext and learn how to get started with the 'new kid on the block'",
-            "tags": [
-                "aspnet5",
-                "c#",
-                "node.js",
-                "open source"
-            ],
-            "author": {
-                "firstname": "Christos",
-                "lastname": "Matskas",
-                "twitter": "@christosmatskas",
-                "blog": "https://cmatskas.com",
-                "bio": "Christos is a software engineer with over 10 years of experience mainly focusing on the .NET stack. He is the founder of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke, a mobile apps development company. Over the years he had the opportunity to work on some very high profile and interesting projects with great companies. He's passionate about coding and continuously strives to improve. He regularly presents to local user groups and conferences and loves speaking about technology, gadgets and code. He blogs and writes about programming regularly.",
-                "avatarUrl": "https://secure.gravatar.com/christosmatskas"
-            }
-        },
-        {
-            "title": "Visual Studio Tips & Tricks: Becoming a Jedi Master",
-            "description": "Is Visual Studio your default development environment (IDE)? Do you feel that you know all there is to know about it? Would you like to know how to unlock some of its hidden features in order to boost your productivity and code more efficiently? Visual Studio's powerful IDE comes crammed with lots of features that can suprise and amaze you. Join Christos Matskas as he showcases some invaluable tips and tricks to help you become a Visual Studio Jedi Master.",
-            "tags": [
-                "visual studio 2013",
-                "IDE",
-                "tips&tricks",
-                "productivity"
-            ],
-            "author": {
-                "firstname": "Christos",
-                "lastname": "Matskas",
-                "twitter": "@christosmatskas",
-                "blog": "https://cmatskas.com",
-                "bio": "Christos is a software engineer with over 10 years of experience mainly focusing on the .NET stack. He is the founder of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke, a mobile apps development company. Over the years he had the opportunity to work on some very high profile and interesting projects with great companies. He's passionate about coding and continuously strives to improve. He regularly presents to local user groups and conferences and loves speaking about technology, gadgets and code. He blogs and writes about programming regularly.",
-                "avatarUrl": "https://secure.gravatar.com/christosmatskas"
-            }
-        },
-        {
-            "title": "Build modern JavaScript web applications",
-            "description": "Modern JavaScript web applications need a reliable and effective delivery system that provides automation in the build process. In this session we will show how to setup and run a complete build and unit testing engine based on Gulp.JS and Karma",
-            "tags": [
-                "JavaScript",
-                "web app",
-                "GulpJs",
-                "build automation",
-                "Karma",
-                "Jasmine"
-            ],
-            "author": {
-                "firstname": "Roberto",
-                "lastname": "Messora",
-                "twitter": "@robymes",
-                "blog": "http://blogs.ugidotnet.org/robymes",
-                "bio": "Roberto Messora is a product manager and software architect for geospatial IT solutions based on ESRI, Microsoft .NET, and HTML5 technology stacks. In the last few years he has acquired a deep knowledge in Location Analytics and Geomarketing, delivering web applications and tools for a wide range of industries. He also believes in an effective and collaborative team environment, adopting modern ALM techniques and tools.",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/4116754?v=3&s=460"
-            }
-        },
-        {
-            "title": "Create a single page web application with AngularJS",
-            "description": "The latest versions of HTML, CSS and JavaScript are quickly growing in popularity, transforming the future of the Web with a rich and responsive user experience and without any proprietary plugins. AngularJS is a key driver of this new generation of libraries and frameworks. The purpose of this session will be to show the architectural concepts of the framework for supporting the development of more productive, flexible, maintainable and testable web applications.",
-            "tags": [
-                "AngularJS",
-                "javascript",
-                "web app"
-            ],
-            "author": {
-                "firstname": "Antonio",
-                "lastname": "Di Motta",
-                "twitter": "@dimotta",
-                "blog": "http://www.dimotta.net",
-                "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specializing in project engineering, analysis and design of software solutions in the manufacturing and transport sectors.",
-                "avatarUrl": "https://secure.gravatar.com/antdimot"
-            }
-        },
-        {
-            "title": "Your wish is my command",
-            "description": "When it comes to speech recognition, the first name that comes to your mind is probably Siri. There are, however, great alternatives like Wit.ai, a platform-independent service which turns speech into actionable data. In the presentation I will show how to plan and build a Wit.ai powered Laravel 5 application that you can control with your voice.",
-            "tags": [
-                "Speech recognition",
-                "javascript",
-                "web app",
-                "wit.ai"
-            ],
-            "author": {
-                "firstname": "Donato",
-                "lastname": "Rotunno",
-                "twitter": "@ralf57",
-                "blog": "",
-                "bio": "Donato Rotunno is Senior (mostly) Frontend Developer at Liip AG in Fribourg, Switzerland. Passionate about modern Frontend development and web technologies, he also likes to take great care about details and User Experience in general. His experience spreads from old-style-legacy Java applications to latest, cutting-edge MVC frontend frameworks like Backbone or Ember.js. When away from his laptop, you can find him playing football, coaching kids at football camps, shooting photography and having fun with his 2 kids and his wife.",
-                "avatarUrl": "https://avatars1.githubusercontent.com/u/208237"
-            }
-        },
-        {
-            "title": "The Azure Cloud 3 Step Theorem",
-            "description": "We all know that Azure is a multi-headed beast which can either be tamed or grow wild on you, your choice. But where do we start? And I do mean literally… where do we start looking on deciding which architecture that we’re going to need on our quest for glory. This decision session will guide you in your first steps on how to go from Minimal Control to Full Control but also with all the caveats mentioned. We’ll talk about on deciding on whether to use Azure Websites, Azure Cloud Services or Azure VM’s and your use for scalable architectures.",
-            "tags": [
-                "azure",
-                "cloud",
-                "web"
-            ],
-            "author": {
-                "firstname": "Mike",
-                "lastname": "Martin",
-                "twitter": "@techmike2kx",
-                "blog": "http://techmike2kx.wordpress.com",
-                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-            }
-        },
-        {
-            "title": "Developing Microsoft Azure Websites with Visual Studio Online 'Monaco': because it’s mundane Monaco!",
-            "description": "With Visual Studio Online or shortly VSO, Microsoft already offered a broad range of tools and services that support different kinds of development. To further build on that vision, Microsoft recently released a preview of “Monaco”, a new development service specifically designed for building and maintaining Microsoft Azure Websites. With Monaco, Microsoft provides developers with a lightweight, friction free companion to the Visual Studio IDE that is accessible from any device on any platform. It is a rich, browser based, code focused development environment optimized for the Microsoft Azure platform, making it easy to start building and maintaining applications for the cloud. In this session we will walk you through this exciting new Microsoft Azure service, show you how fast you can make changes in Monaco and how the online experience can speed up your development and offers you an even greater set of tools than the ones you already use every day. We will talk about more advanced scenarios, and show you how the extensions work, how you can leverage Git and TFS source control in combination with Monaco, and how you can even make live changes, compile them and have them reflected immediately online.",
-            "tags": [
-                "azure",
-                "cloud",
-                "web"
-            ],
-            "author": {
-                "firstname": "Mike",
-                "lastname": "Martin",
-                "twitter": "@techmike2kx",
-                "blog": "http://techmike2kx.wordpress.com",
-                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-            }
-        },
-        {
-            "title": "The toolshed: Inside Microsoft Azure Tools : Your daily hammers",
-            "description": "Visual Studio 2013, MSFT’s flagship was released in November 2013 and people just love it. With it came the new release of the online version and also one for Microsoft Azure integrated in WAWS. This doesn’t made the choice of tooling  easier on all of us. And thus maybe it’s about time to take a look what we can do with all the available tools and which tools are your best tools of the trade. And is there such a thing as “One Tool to rule’em all”? This session will hopefully enlighten your path to Microsoft Azure Tooling (for Dev, IT Pro and asset Management)SMALL Note: this session isn’t sponsored although it’s mostly about partner solutions! Some free software may be included.",
-            "tags": [
-                "azure",
-                "cloud",
-                "web",
-                "tooling"
-            ],
-            "author": {
-                "firstname": "Mike",
-                "lastname": "Martin",
-                "twitter": "@techmike2kx",
-                "blog": "http://techmike2kx.wordpress.com",
-                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-            }
-        },
-        {
-            "title": "Lights, Camera, Action - Microsoft Azure Media Services on the Loose",
-            "description": "You just cannot imagine the Web without audio and video services. Up until now, if you want to include streaming media content in your websites or applications, you need to rely on third party services or massive computing capacity for media transcoding, and streaming to a range of client devices. With the release of Microsoft Azure Media Services and the Media Services SDK, these capabilities are becoming easily available for you to incorporate in your websites and applications. In this session we'll give an overview of Microsoft Azure Media Services, and you'll learn from a series of demos how you can take advantage of the platform to add media content to your development. We'll also see what the competition has in store and what's missing.",
-            "tags": [
-                "azure",
-                "cloud",
-                "web",
-                "tooling",
-                "media"
-            ],
-            "author": {
-                "firstname": "Mike",
-                "lastname": "Martin",
-                "twitter": "@techmike2kx",
-                "blog": "http://techmike2kx.wordpress.com",
-                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-            }
-        },
-        {
-            "title": "Putting The CD In The CI With The GIT , The ALM And Other Acronyms That Don’t Make Sense When Putting Them All In One Phrase",
-            "description": "We build, deploy, and redo the same thing over and over again. If we’re lucky we find ourselves an automated system (that’s what we all hope for as consultants that is  ) And that’s all ok , but what are the best practices when doing this in the Cloud? And where can Azure help us (in combo with others that is ). A journey into Continuous integration, delivery, lifecycle and releasemanagement.",
-            "tags": [
-                "azure",
-                "cloud",
-                "web",
-                "tooling"
-            ],
-            "author": {
-                "firstname": "Mike",
-                "lastname": "Martin",
-                "twitter": "@techmike2kx",
-                "blog": "http://techmike2kx.wordpress.com",
-                "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
-                "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
-            }
-        },
-        {
-            "title": "Why Middleware?",
-            "description": "OWIN has a concept of middleware. So does ASP.NET 5. Why? What is middleware? How does it help in typical web applications? In this talk we will dive into the code, write some middleware and show how middleware helps you handle cross-cutting concerns in an isolated and re-usable way. I'll compare and contrast the OWIN and ASP.NET 5 middleware concepts and talk about where each is appropriate.",
-            "tags": [
-                "OWIN",
-                "ASPNET vNext",
-                "web",
-                "micro services"
-            ],
-            "author": {
-                "firstname": "Christian",
-                "lastname": "Horsdal",
-                "twitter": "@chr_horsdal",
-                "blog": "http://www.horsdal-consult.dk",
-                "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
-                "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
-            }
-        },
-        {
-            "title": "Layers Considered Harmful",
-            "description": "Layers are killing us. All the time. They are killing our communication. They are killing our speed. They are killing the others speed as well. We need to do better. Which we can. I'll tell why layers are killing us. I might even tell you something about how to do better.",
-            "tags": [
-                "web",
-                "micro services",
-                "architecture"
-            ],
-            "author": {
-                "firstname": "Christian",
-                "lastname": "Horsdal",
-                "twitter": "@chr_horsdal",
-                "blog": "http://www.horsdal-consult.dk",
-                "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
-                "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
-            }
-        },
-        {
-            "title": "Advanced Nancy",
-            "description": "In this hands-on session, we will take a look how to get beyond the basics and build secure and reliable application for the Real World with Nancy. In the process, we will get into authentication, authorization, input validation and error handling and swapping out defaults for custom implementations. All in a test-friendly manner following the Super Duper Happy Path of Nancy web application development.(Part of this material is covered in my book on the Nancy web framework, part of it goes beyond that.)",
-            "tags": [
-                "Nancy",
-                "web"
-            ],
-            "author": {
-                "firstname": "Christian",
-                "lastname": "Horsdal",
-                "twitter": "@chr_horsdal",
-                "blog": "http://www.horsdal-consult.dk",
-                "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
-                "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
-            }
-        },
-        {
-            "title": "Azure Webjobs - the easiest way to use Azure",
-            "description": "If you ever wanted to use the power of Azure for processing or loading data Azure WebJobs are the easiest option. In this talk I will show the features and possibilities of the different WebJobs flavors and how you can enhance existing applications without losing the capability to run it outside of Azure.",
-            "tags": [
-                "azure",
-                "azure webjobs",
-                "cloud",
-                ".net"
-            ],
-            "author": {
-                "firstname": "Robert",
-                "lastname": "Muehsig",
-                "twitter": "@robert0muehsig",
-                "blog": "http://blog.codeinside.eu",
-                "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
-                "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
-            }
-        },
-        {
-            "title": "Sign in & co. with Azure Active Directory for your Mobile-, Desktop- or Web-App - the Facebook Login for the business world",
-            "description": "In this talk I will show you how to enable 'Sign in with Azure Active Directory' for your Mobile, Desktop or Web-Applications. You need to secure Web APIs? No problem. You need an easy way to protect your Azure website? Yep. And after we made the first step, we will dig deeper to the Graph API and explore the connection between Azure Active Directory and Office 365.",
-            "tags": [
-                "azure",
-                "azure active directory",
-                "identity",
-                "security",
-                "office365"
-            ],
-            "author": {
-                "firstname": "Robert",
-                "lastname": "Muehsig",
-                "twitter": "@robert0muehsig",
-                "blog": "http://blog.codeinside.eu",
-                "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
-                "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
-            }
-        },
-        {
-            "title": "Mind the gap!",
-            "description": "An unknown Mobile 'country'. A wandering developer from Web 'city'. No idea about how to deal with the 'droids', where getting great 'apples' to eat and what 'windows' would be opened to me. The only available means of transport: the express 'JavaScript' train, the most up-to-date 'Html' Tube and the confortable and safe 'CSS' Tram. Tension, drama, action and finally, love. This is my love story with cross-platform mobile frameworks. In this talk we'll speak about the existent cross-platform mobile frameworks, talking openly about weaknesses, strengths and myths present in cross platforms, from the point of view of a newbie mobile developer. Do you want to join me on this trip? This is your talk!",
-            "tags": [
-                "cross-platform",
-                "mobile development",
-                "phonegap"
-            ],
-            "author": {
-                "firstname": "Alberto",
-                "lastname": "Lopez",
-                "twitter": "@albertuslm",
-                "blog": "http://albertolopezmartin.com/en",
-                "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
-                "avatarUrl": "http://www.gravatar.com/avatar/b3e82acd2587daeaeb5c0d0fe288e97f.png"
-            }
-        },
-        {
-            "title": "web development beyond the Web: IoT",
-            "description": "Over the latest years, the line between offline and online world becoming thinner, practically disappearing. Today, thanks to the new technologies, is possible take the control of all the things of your offline world using the power of the online world to enhance our daily business. Who didn’t ever feel that would be great having the APIs you use on the web available for your daily life? C’mon! Say hello to the fusion between Web and & IoT!",
-            "tags": [
-                "web development",
-                "Internet of Things"
-            ],
-            "author": {
-                "firstname": "Alberto",
-                "lastname": "Lopez",
-                "twitter": "@albertuslm",
-                "blog": "http://albertolopezmartin.com/en",
-                "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
-                "avatarUrl": "http://www.gravatar.com/avatar/b3e82acd2587daeaeb5c0d0fe288e97f.png"
-            }
-        },
-        {
-            "title": "ASP.NET 5: How to Get Your Cheese Back",
-            "description": "ASP.NET 5 is the new kid on the block, and it's here with a lot of new, unfamiliar features and concepts. As a developer, it's not yet clear why to start developing on ASP.NET 5 or, more importantly, why to move an existing, healthy project to it. I hear a lot of Questions like: 'wow, it wasn't like that before, why has it changed?' 'I'm not familiar with these concepts, so should I stick with [the thing that I am using now]?'. In this talk, I'll cover the reasons why you should start considering ASP.NET 5 by boiling it down to the tried-and-tested format: 10 top features. We'll cover everything from new project structures to unified MVC and Web API frameworks, complete with samples and clear explanations of how these things are going to affect the way you code and the way you build projects. Along the way, we'll cover other little gems like the new Configuration framework. By the end of the talk, the advantages - and potential pitfalls - of using ASP.NET 5 in terms of both runtime and development process should be crystal clear, and you'll be able to work out when's the right time to start using the latest shiny Microsoft bits.",
-            "tags": [
-                "aspnet-5", 
-                "http", 
-                "web", 
-                "dotnet"
-            ],
-            "author": {
-                "firstname": "Tugberk",
-                "lastname": "Ugurlu",
-                "twitter": "@tourismgeek",
-                "blog": "http://tugberkugurlu.com",
-                "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
-                "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
-            }
-        },
-        {
-            "title": "Going Further with ASP.NET 5",
-            "description": "After getting to know ASP.NET 5, and seeing where it’s different from previous versions, it's time to master the next development framework! If you want to go a little further and look under the hood of ASP.NET 5, this session will be for you. In this talk, I will cover the more advanced features shipping in as part of the new ASP.NET, like language extensibility, hosting, and in-memory end-to-end testing with samples. We’ll also have a chance to see some end-to-end project examples, demonstrating how your workflows and coding might change, and some corner case issues and gotchas you might hit. Generally, this talk will broaden your understanding  of what will be possible with ASP.NET 5, and you’ll know where to look if you want to get one step closer to mastery.",
-            "tags": [
-                "aspnet-5", 
-                "http", 
-                "web", 
-                "dotnet"
-            ],
-            "author": {
-                "firstname": "Tugberk",
-                "lastname": "Ugurlu",
-                "twitter": "@tourismgeek",
-                "blog": "http://tugberkugurlu.com",
-                "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
-                "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
-            }
-        },
-        {
-            "title": "React.js in a real world application",
-            "description": "React.js is the new kid in the world of frontend frameworks. A brief introduction on what it is and how we are using it in a real world application",
-            "tags": [
-                "javascript",
-                "facebook",
-                "frontend",
-                "nodejs"
-            ],
-            "author": {
-                "firstname": "Emanuele",
-                "lastname": "DelBono",
-                "twitter": "@emadb",
-                "bio": "I’m web developer passionate about programming languages. I work in a software house based in Italy where I develop web applications in C#, Ruby and Javascript and hopefully Elixir. I strive for good design, clean code and software that make this world a little better.",
-                "avatarUrl": "https://avatars2.githubusercontent.com/u/276876"
-            }
-        },
-        {
-            "title": "Extending RWD with Lightweight Client-side Device Detection",
-            "description": "The power and effectiveness of RWD is out of question; as well as the cracks that show up when the business demands full support for a variety of form factors such as smartphone and tablet. RWD is great if changes across visual breakpoints can be implemented without performance and bandwidth hits through CSS. In this session, we’ll present WURFL.js a lightweight client-side frontend for device detection. Use of WURFL.js and its twin image tailor library gives you the unparalleled chance to switch layouts across breakpoints not just when the screen width changes but also when the form factor changes and you won’t be any longer treating a smartphone device the same as a tiny resized browser window.",
-            "tags": [
-                "javascript",
-                "mobile",
-                "frontend"
-            ],
-            "author": {
-                "firstname": "Dino",
-                "lastname": "Esposito",
-                "twitter": "@despos",
-                "bio": "CTO @ http://Crionet.com , mobile strategist, software architect, trainer, book author, father of a genius or two. Would like to be a tennis player too.",
-                "avatarUrl": "https://pbs.twimg.com/profile_images/558543071726411776/lXpBBh9Q_400x400.jpeg"
-            }
-        },
-        {
-            "title": "Lightning Components: A JavaScript Component Framework for Enterprise Multi Tenant Architecture",
-            "description": "For years, Salesforce has been developing their next generation open source Javascript component framework for internal usage. It has now been opened up and put in the wild for any developer using the Salesforce platform to build a custom UI. This talk will be a walk through of code and architecture to discover how we are solving the unique problems of Enterprise multi-tenancy in a client-side Javascript framework.",
-            "tags": [
-                "javascript",
-                "enterprise",
-                "multi tenant"
-            ],
-            "author": {
-                "firstname": "Peter",
-                "lastname": "Chittum",
-                "twitter": "@pchittum",
-                "blog": "http://pchittum.com",
-                "bio": "Expat yank, French-speaking, developer, who lives in the UK. In enterprise software for over 15 years and currently working for Salesforce as a Developer Evangelist in the EMEA region. Never found time to specialize in any one thing, but I love to share what I know.",
-                "avatarUrl": "http://www.gravatar.com/avatar/b065413f369c62f5d99245fea052b667.png"
-            }
-        },
-                {
-            "title": "Gulp",
-            "description": "Gulp is a relative new kid on the block when it comes down to javascript based task runners. However it gained a fast paced uprise and has also become the preferred choice by Microsoft in ASP.NET 5, but not limited to that. This session will give you an introduction to Gulp and where you can use it in your daily development efforts. This is a level 300 session.",
-            "tags": [
-                "javascript",
-                "enterprise",
-                "gulp",
-                "task runner"
-            ],
-            "author": {
-                "firstname": "Kris",
-                "lastname": "van der Mast",
-                "twitter": "@KvdM",
-                "blog": "http://www.krisvandermast.com",
-                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
-            }
-        },
-        {
-            "title": "Code with Visual Studio Online (codename Monaco)",
-            "description": "Visual Studio Online, formerly codenamed Monaco, is a great addition to Microsoft Azure Web Apps. It provides the means to develop new sites from scratch or change deployed material inside the browser. Come to this session to learn all about it. This is a level 300 session.",
-            "tags": [
-                "visual studio",
-                "azure",
-                "microsoft",
-                "web apps",
-                "monaco"
-            ],
-            "author": {
-                "firstname": "Kris",
-                "lastname": "van der Mast",
-                "twitter": "@KvdM",
-                "blog": "http://www.krisvandermast.com",
-                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
-            }
-        },
-        {
-            "title": "ASP.NET 5",
-            "description": "Microsoft has been working hard the last years to ship this product and it's not a simple version next. A lot has changed behind the covers to build a better framework that has a better performance and things like TagHelpers. Come and see this session if you want to keep up to speed with the latest and greatest. This is a level 300 session.",
-            "tags": [
-                "asp.net 5",
-                "microsoft"
-            ],
-            "author": {
-                "firstname": "Kris",
-                "lastname": "van der Mast",
-                "twitter": "@KvdM",
-                "blog": "http://www.krisvandermast.com",
-                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
-            }
-        },
-        {
-            "title": "F12 tools in IE and Microsoft Edge",
-            "description": "Life as a web developer has become increasingly more complex during the years. Luckily modern browsers provide handy developer, so called F12, tools. This session will show what you can do with the tools inside IE 11 and Microsoft Edge. This is a level 300 session.",
-            "tags": [
-                "F12 tools",
-                "microsoft",
-                "microsoft Edge",
-                "web development"
-            ],
-            "author": {
-                "firstname": "Kris",
-                "lastname": "van der Mast",
-                "twitter": "@KvdM",
-                "blog": "http://www.krisvandermast.com",
-                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
-            }
-        },
-        {
-            "title": "ASP.NET 5 TagHelpers",
-            "description": "This session is all about the new taghelpers in ASP.NET 5. It's your way make much cleaner markup focussed views even your web designer will love. This is a level 300 session.",
-            "tags": [
-                "asp.net 5",
-                "taghelpers",
-                "microsoft"
-            ],
-            "author": {
-                "firstname": "Kris",
-                "lastname": "van der Mast",
-                "twitter": "@KvdM",
-                "blog": "http://www.krisvandermast.com",
-                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
-            }
-        },
-        {
-            "title": "Azure App Service",
-            "description": "Microsoft Azure is constantly on the move. One of the offerings introduced in 2015 was Azure App Services, which enables you to create applications more easily in a mobile first, cloud first world we live in today. This session gives you an overview of what you can do with the new offerings. This is a level 300 session.",
-            "tags": [
-                "azure",
-                "microsoft",
-                "app service"
-            ],
-            "author": {
-                "firstname": "Kris",
-                "lastname": "van der Mast",
-                "twitter": "@KvdM",
-                "blog": "http://www.krisvandermast.com",
-                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
-            }
-        },
-        {
-            "title": "Sharepoint Provider hosted apps for web developers",
-            "description": "Most developers are not keen on Sharepoint development. With the new Sharepoint Provider Hosted Apps offering Microsoft provides us with a new way of developing while bringing your ASP.NET skills with you. This is a level 300 session.",
-            "tags": [
-                "sharepoint",
-                "web development",
-                "microsoft"
-            ],
-            "author": {
-                "firstname": "Kris",
-                "lastname": "van der Mast",
-                "twitter": "@KvdM",
-                "blog": "http://www.krisvandermast.com",
-                "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
-            }
-        },
-        {
-            "title": "Rapid Mobile Development with Ionic framework",
-            "description": "Meet Ionic, the best tool for faster go-to market strategy. Nowadays, developing mobile applications is about both technology and development time/cost. It's a hot topic for large companies and small startups who need to go to market quickly and cost-effectively. Ionic is the perfect tool for the rapid cross-platform development of high-quality mobile apps.",
-            "tags": [
-                "ionic framework",
-                "mobile development",
-                "hybrid apps",
-                "angular js"
-            ],
-            "author": {
-                "firstname": "Alessio",
-                "lastname": "Delmonti",
-                "twitter": "@alexintosh",
-                "blog": null,
-                "bio": "Alessio Delmonti is passionate about software development and innovation processes. Since 2007, he has been involved in a series of web and mobile projects for clients like Vileda, MTV, Bacardi, and Premium Retail. In 2013, he co-founded his first startup, Wiralist, where he currently works as chief technology officer. He also founded and manages the italian community of Ionic framework",
-                "avatarUrl": "https://pbs.twimg.com/profile_images/497193387707998209/JGVlyH9l.jpeg"
-            }
-        },
-        {
-            "title": "I have inherited a large, complex, messy, sh*tty CSS codebase. And now?",
-            "description": "There are lots of methodologies, approaches, blog posts, guides that tell you how to structure your CSS code. Everything looks nice and easy when you can start from scratch. But what happens when you inherit a large codebase, so complex, tangled and messy that every time you touch something, something else breaks? Where do you start to tackle the problem, how can you refactor the code? Which libraries/frameworks/approaches/patterns can help you in this process? In this talk I'll try to give an answer to all of these questions.",
-            "tags": [
-                "sass",
-                "css",
-                "architecture",
-                "refactoring",
-                "styleguides",
-                "bem"
-            ],
-            "author": {
-                "firstname": "Cristiano",
-                "lastname": "Rastelli",
-                "twitter": "@areaweb",
-                "blog": "http://www.didoo.net",
-                "bio": "Passionate web designer & developer, I like to think of myself as a builder of bridges between business, design and development. I attend technical conferences and meetups, and sometimes it even happens that I speak there.",
-                "avatarUrl": "https://pbs.twimg.com/profile_images/2902201348/82fa1708dbf3783cb7bbb6907c7871fa_400x400.png"
-            }
-        },
-        {
-            "title": "Hack! Compile React components to Django",
-            "description": "A retrospective of building a source-to-source compiler to translate React components written in JavaScript into Django templates; from the basic architecture of a compiler to an example of compiled React component",
-            "tags": [
-                "react",
-                "javascript",
-                "python"
-            ],
-            "author": {
-                "firstname": "Daniele",
-                "lastname": "Esposti",
-                "twitter": "@expobrain",
-                "blog": "http://www.expobrain.net",
-                "bio": "Daniele is a developer with experience in desktop applications and back-end web services. His job is to design and implements scalable systems using Python as a main language. He likes to understand the technology at a low level, not just using it. His dream is to become an astrounaut.",
-                "avatarUrl": "https://avatars3.githubusercontent.com/u/2404909"
-            }
-        },
-        {
-            "title": "Fun with Functional JavaScript",
-            "description": "It might be a surprise for some of you, but JavaScript can be regarded as a functional programming language. Why don't we use more functional programming concepts in our JavaScript code, then? In this talk you will learn how to start including some of them in your applications and when they might be particularly beneficial. You will also get familiar with libraries that extend the functional capabilities of JavaScript (lodash and FunctionalJS) and the upcoming ES6 features that make JavaScript even more functional.",
-            "tags": [
-                "JavaScript",
-                "FunctionalProgramming",
-                "ES6",
-                "underscore",
-                "loadash"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "FutureJS - ES6, ES7 and beyond",
-            "description": "No, FutureJS is neither a new framework nor a library that you will hear everyone in the office talking about. This talk is actually about the future of JavaScript, or rather EcmaScript, as that is its official name.The process of standardising EcmaScript 6 (aka Harmony) is finally reaching its final stages. The ES Commitee also uncovered plans for the future editions of the language (ES7 and beyond). It's time we started getting to know all new features that we will all be using in a few years time. Actually, we can do even better! We can start using the most interesting and useful features right now thanks to ES6 compilers like Google's Traceur. They will translate the new ES6 code to its ES5 equivalent form, which our current browsers can understand and execute. In this talk you will learn what are the most exciting new ES6 features as well as how to start using them right now thanks to Traceur.",
-            "tags": [
-                "JavaScript",
-                "ES6",
-                "ES7",
-                "EcmaScript",
-                "Traceur",
-                "Babel"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "Seriously, you should start testing that JavaScript code",
-            "description": "I think most professional programmers would agree that we should unit test our code to some degree. And usually that unit testing is happening in our back-end code, but what about our front-end? Yes, I am talking about our (increasingly large) JavaScript codebase. Those hundreds of lines of code could benefit a lot from being unit tested. Seriously, it could possibly save you a lot of problems down the line when you add a new feature without realizing that it breaks something else in the system. With tests in place you will know immediately (even right after saving the file with the new code changes). Without tests you will learn about it from your QA staff (if you’re lucky enough to have them) or from your end customer. In this talk you will get to know the tools (Karma, Jasmine, PhantomJS and Grunt) that make unit testing your JavaScript code a real pleasure.",
-            "tags": [
-                "JavaScript",
-                "Testing",
-                "UnitTests",
-                "Karma",
-                "Jasmine",
-                "PhantomJS",
-                "Grunt",
-                "TestAutomation"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "How NOT to design your API",
-            "description": "I spent the past few years integrating with various APIs in the world of ecommerce. Oh, the things I’ve seen and the pain I’ve endured… When you want to use a 3rd party API you can expect everything - from having to implement your own XML-RPC API to reading documentation that blatantly states: “Our wsdl can contain little errors which would make your integration difficult”. Having been through all this I believe it is very important to promote good standards of API design to save future programmers from the API hell. In this talk I will show you concrete examples of questionable API design decisions and suggest some better alternatives that won’t cause unnecessary hair loss for the developers who integrate with your API.",
-            "tags": [
-                "API",
-                "WorstPractices",
-                "PainfulIntegrations",
-                "RageDrivenDevelopment",
-                "REST",
-                "XML-RPC"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "OO considered harmful",
-            "description": "Object Oriented Languages have been mainstream for a few decades now. It might be a worthwhile exercise to step back and take a look at the pros and cons of using them in our projects. Is OO living up to the (very high) expectations? Is it simplifying our work or making it more complicated? The more experience I have with OO designs the more I realize that something is amiss. I believe that we are doing ourselves a disservice by blindly following OO principles because sometimes we might find another approach that would work out better for us. In this talk I will do my best to convince you that we should strive to do better than OO. At the very least I would like to make you question the technology choices on your next project and not choose OO as the default.",
-            "tags": [
-                "ObjectOrientation",
-                "Overkill",
-                "OverlyComplex",
-                "SimplicityMatters"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "Introduction to hybrid mobile apps with the Ionic Framework",
-            "description": "A revolution in mobile development is happening right in front of our very eyes, folks. Just a few years ago you wouldn’t even dream of creating a web app and being able to package it for App Store on iOS and Google Play on Android. Nowadays such tricks are finally possible and in this talk you will learn how to create a mobile app in a matter of minutes leveraging your existing knowledge of standard web technologies. All this thanks to the Ionic Framework. But that’s not all! You will also see how to make use of native device capabilities (e.g. flashlight, accelerometer etc.) in your apps in order to make them much more integrated than it was ever possible before.",
-            "tags": [
-                "JavaScript",
-                "Ionic",
-                "Cordova",
-                "AngularJS",
-                "HybridMobileApps",
-                "iOS",
-                "Android"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "Getting started with Meteor",
-            "description": "The world of JavaScript Frameworks is constantly evolving. It seems that almost every month there is a brand new thing that will revolutionise web development. However, having a closer look you don’t really see much revolutionary stuff in those new frameworks - they are usually just a small step forward from the previous thing. At least that’s how I felt in the past few years of doing JavaScript. Until I discovered Meteor, that is. It was enough to complete the getting started tutorial to realise that I’m dealing with a potential game-changer. First imagine that all communications happen via web sockets (way faster than REST API calls over HTTP). Then realise that you have a full blown MongoDB implementation accessible on the client side. Finally, remember that from now on you just need one programming language - JavaScript - to implement the whole application - from the client-side through to the back-end and all the way down to the database. In this talk you will see all this goodness brought together in one great package that is called Meteor.",
-            "tags": [
-                "JavaScript",
-                "Meteor",
-                "Reactive",
-                "MongoDB",
-                "LatencyCompensation",
-                "DeveloperOriented",
-                "MakeLifeEasier"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "Getting started with ClojureScript",
-            "description": "Functional programming is all the rage lately. It is now taking the world of JavaScript by storm thanks to the growing popularity of ClojureScript - the JS implementation of one of the most popular functional programming languages - Clojure. In this talk you will get a gentle, but thorough introduction to the core concepts of functional programming as well as to the basic concepts of Clojure. Thanks to the numerous live-coded samples you will be able to get a feel of the language and formulate your own opinion about it.",
-            "tags": [
-                "JavaScript",
-                "Clojure",
-                "ClojureScript",
-                "FunctionalProgramming",
-                "LISP"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "Aurelia - welcome to the future of JavaScript frameworks",
-            "description": "With the adoption of ES6 fast approaching and even more ambitious plans for JavaScript as we move forward (thanks to the exciting new features in ES7 and beyond), it seems to be a good time to evaluate the tools that we use for our front-end development. Aurelia - a new framework from Rob Eisenberg, the creator of Durandal and a former core member of the Angular team - shows us a glimpse of the future. A future where our framework is forward thinking (using ES6 and ES7 language features), ready to cooperate with Web Components and manages to seamlessly integrate into our development workflow. Come and see the future. It’s happening now!",
-            "tags": [
-                "JavaScript",
-                "Aurelia",
-                "TwoWayDataBinding",
-                "ES6",
-                "ES7",
-                "FrameworkOfTheFuture"
-            ],
-            "author": {
-                "firstname": "Kuba",
-                "lastname": "Walinski",
-                "twitter": "@kubawalinski",
-                "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
-                "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
-            }
-        },
-        {
-            "title": "Getting Into the Zero Downtime Deployment World with HTTP Applications",
-            "description": "Continuous delivery is a huge step forward in our ability to rapidly deliver features and value to the users of distributed HTTP applications, but it comes with a cost and a responsibility. Most modern web applications need to be highly available, and this also means that it should be up during the deployments. This obviously goes for HTTP based services, too (a.k.a. RESTful APIs). In these cases, dealing with zero-downtime deployments is a challenge, and there is no easy solution to this challenge. Moreover, the solutions available vary based on the number of integrated clients, which parts of the World it addresses, how many active users it has... Isn't there a simple way to figure out how to get there? Join me to get into the details of the key steps on your path to zero downtime deployments. Learn about the patterns, practices and techniques that make it easier, such as incremental deployments, applying semantic versioning to HTTP applications and blue/green deployments. We'll also walk through an end-to-end demo of how a high traffic web application can survive the challenge of deployments. What seemed insurmountable at the start of the session will be practical and applicable by the time we're finished, and you should be able to see how to start moving your production application close to the zero-downtime gold standard.",
-            "tags": [
-                "http", 
-                "web",
-                "continuous-delivery",
-                "deployments"
-            ],
-            "author": {
-                "firstname": "Tugberk",
-                "lastname": "Ugurlu",
-                "twitter": "@tourismgeek",
-                "blog": "http://tugberkugurlu.com",
-                "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
-                "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
-            }
-        }
-    ]
+  "proposal": [
+    {
+      "title": "You Can Have it Both Ways: Using Web Components in a React UI",
+      "description": "Say that you really like how React.js works, and you are building the UI of your web application in React, using React components. But say that there is some Web Component around that is exactly what you need, and you'd like to use it (after all, that's the main point of web components: to be easily reusable). In this talk we'll see how you can have your cake and eat it too, reusing existing web components inside the React virtual DOM.",
+      "tags": [
+        "JavaScript",
+        "React",
+        "WebComponents",
+        "SPA"
+      ],
+      "author": {
+        "firstname": "Massimiliano",
+        "lastname": "Mantione",
+        "twitter": "@M_a_s_s_1",
+        "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
+      }
+    },
+    {
+      "title": "Transducers FTW!",
+      "description": "Over time we have seen several utility frameworks for dealing with Javascript data structures and processing abstractions. It all started simple with Underscode, became more functional with Lodash, and reached the Next Level with Rambda. Then it got a bit messy when developers looked for a way out of callback hell, initially through promises and futures and then with one of the reactive frameworks like Rx, Bacon, Highland, Kefir... Then the Clojure world brought us transducers. They redefine the idea of processing a sequence encompassing the usual map, reduce, and filter functions, and can be applied to both synchronous and asynchronous computations. In this talk we will see how to use them in Javascript, and especially how they can help you writing better code.",
+      "tags": [
+        "JavaScript",
+        "promises",
+        "async",
+        "reactive",
+        "transducers"
+      ],
+      "author": {
+        "firstname": "Massimiliano",
+        "lastname": "Mantione",
+        "twitter": "@M_a_s_s_1",
+        "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
+      }
+    },
+    {
+      "title": "Metascript: Beyond Javascript Limitations",
+      "description": "There are a lot of languages that compile to Javascript, so creating another one is an effort hard to justify from a practical standpoint. Yet none of them provides what is really important for me, so I decided to do it: Metascript is la programming language that focuses on true Lisp-like metaprogramming, a clean and readable systax, embracing the Javascript platform and echosystem, and leaving the door open to optional static type checking. Of all these things metaprogramming is the least understood, so the talk will focus on how Lisp-like macros can transform an ordinary programmng language into an extremely practical tool to describe solutions to problems in a readable way.",
+      "tags": [
+        "JavaScript",
+        "ES5",
+        "ES6",
+        "metaprogramming"
+      ],
+      "author": {
+        "firstname": "Massimiliano",
+        "lastname": "Mantione",
+        "twitter": "@M_a_s_s_1",
+        "bio": "Massimiliano worked on the Mono JIT complier and for the Unity3d game engine. He started as a Javascript hater but changed his mind after he worked in the V8 team in Google for about one year and half. Now he works on virtual tradeshows in 3D on the web, and he implemented (and uses in production!) yet another programming language that compiles to Javascript: metascript.",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/426352?s=200"
+      }
+    },
+    {
+      "title": "Integrate Office 365 inside a MVC application",
+      "description": "In this session we will demonstrate how easy it is to integrate inside an existing/new asp.net MVC application an Office 365 environment with the help of the Office 365 API, after that we will show through variuos code examples how easy is to interact with the users calendar, email and files. The session will also provided hints on how to do the same operations in a mobile application.",
+      "tags": [
+        "aspnet mvc",
+        "c#",
+        "office365",
+        "client dev"
+      ],
+      "author": {
+        "firstname": "Giancarlo",
+        "lastname": "Lelli",
+        "twitter": "@itsonlyGianca",
+        "blog": "http://diaryofamsp.azurewebsites.net",
+        "bio": "Giancarlo works at iCubed srl where he provides consulting, training and software development of Microsoft related technologies with a special focus on .Net technologies and Office 365 solutions. It’s currently enrolled at the Cagliari University in the IT faculty, and he has been in the Italian team of the Microsoft Student Partners for two years. Giancarlo holds seminars in universities regarding Microsoft technologies and development of .NET platform. Themes in his works are: development of client applications for Windows 8 and Windows Phone 8, Office 365 and Windows Azure. Giancarlo is also the founder of Italian Developer Connection an Italian user group dedicated to Microsoft technologies.",
+        "avatarUrl": "https://media.licdn.com/media/p/2/005/042/2f4/2b90c23.jpg"
+      }
+    },
+    {
+      "title": "Meet the new kid on the block - Microsoft's new ASP.NET is going to rock your world",
+      "description": "Imagine if you could write an ASP.NET application in notepad, compile it and run it on a Mac OS X. Imagine if you could mix and match WebForms, MVC and Web API within the project. How would you feel if you could create a faster, leaner and more memory efficient ASP.NET application that has been freed from the shackles of Microsoft and the .NET framework and all you need is your coding skills, a couple of NuGet packages and your imagination? If all these sound like a dream come true, then come join me for an introduction to Microsoft’s ASP.NET vNext and learn how to get started with the 'new kid on the block'",
+      "tags": [
+        "aspnet5",
+        "c#",
+        "node.js",
+        "open source"
+      ],
+      "author": {
+        "firstname": "Christos",
+        "lastname": "Matskas",
+        "twitter": "@christosmatskas",
+        "blog": "https://cmatskas.com",
+        "bio": "Christos is a software engineer with over 10 years of experience mainly focusing on the .NET stack. He is the founder of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke, a mobile apps development company. Over the years he had the opportunity to work on some very high profile and interesting projects with great companies. He's passionate about coding and continuously strives to improve. He regularly presents to local user groups and conferences and loves speaking about technology, gadgets and code. He blogs and writes about programming regularly.",
+        "avatarUrl": "https://secure.gravatar.com/christosmatskas"
+      }
+    },
+    {
+      "title": "Visual Studio Tips & Tricks: Becoming a Jedi Master",
+      "description": "Is Visual Studio your default development environment (IDE)? Do you feel that you know all there is to know about it? Would you like to know how to unlock some of its hidden features in order to boost your productivity and code more efficiently? Visual Studio's powerful IDE comes crammed with lots of features that can suprise and amaze you. Join Christos Matskas as he showcases some invaluable tips and tricks to help you become a Visual Studio Jedi Master.",
+      "tags": [
+        "visual studio 2013",
+        "IDE",
+        "tips&tricks",
+        "productivity"
+      ],
+      "author": {
+        "firstname": "Christos",
+        "lastname": "Matskas",
+        "twitter": "@christosmatskas",
+        "blog": "https://cmatskas.com",
+        "bio": "Christos is a software engineer with over 10 years of experience mainly focusing on the .NET stack. He is the founder of SoftwareLounge, a software consultancy firm, and co-founder of TowzieTyke, a mobile apps development company. Over the years he had the opportunity to work on some very high profile and interesting projects with great companies. He's passionate about coding and continuously strives to improve. He regularly presents to local user groups and conferences and loves speaking about technology, gadgets and code. He blogs and writes about programming regularly.",
+        "avatarUrl": "https://secure.gravatar.com/christosmatskas"
+      }
+    },
+    {
+      "title": "Build modern JavaScript web applications",
+      "description": "Modern JavaScript web applications need a reliable and effective delivery system that provides automation in the build process. In this session we will show how to setup and run a complete build and unit testing engine based on Gulp.JS and Karma",
+      "tags": [
+        "JavaScript",
+        "web app",
+        "GulpJs",
+        "build automation",
+        "Karma",
+        "Jasmine"
+      ],
+      "author": {
+        "firstname": "Roberto",
+        "lastname": "Messora",
+        "twitter": "@robymes",
+        "blog": "http://blogs.ugidotnet.org/robymes",
+        "bio": "Roberto Messora is a product manager and software architect for geospatial IT solutions based on ESRI, Microsoft .NET, and HTML5 technology stacks. In the last few years he has acquired a deep knowledge in Location Analytics and Geomarketing, delivering web applications and tools for a wide range of industries. He also believes in an effective and collaborative team environment, adopting modern ALM techniques and tools.",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/4116754?v=3&s=460"
+      }
+    },
+    {
+      "title": "Create a single page web application with AngularJS",
+      "description": "The latest versions of HTML, CSS and JavaScript are quickly growing in popularity, transforming the future of the Web with a rich and responsive user experience and without any proprietary plugins. AngularJS is a key driver of this new generation of libraries and frameworks. The purpose of this session will be to show the architectural concepts of the framework for supporting the development of more productive, flexible, maintainable and testable web applications.",
+      "tags": [
+        "AngularJS",
+        "javascript",
+        "web app"
+      ],
+      "author": {
+        "firstname": "Antonio",
+        "lastname": "Di Motta",
+        "twitter": "@dimotta",
+        "blog": "http://www.dimotta.net",
+        "bio": "Antonio Di Motta is an IT Project Engineer with over 15 years of experience specializing in project engineering, analysis and design of software solutions in the manufacturing and transport sectors.",
+        "avatarUrl": "https://secure.gravatar.com/antdimot"
+      }
+    },
+    {
+      "title": "Your wish is my command",
+      "description": "When it comes to speech recognition, the first name that comes to your mind is probably Siri. There are, however, great alternatives like Wit.ai, a platform-independent service which turns speech into actionable data. In the presentation I will show how to plan and build a Wit.ai powered Laravel 5 application that you can control with your voice.",
+      "tags": [
+        "Speech recognition",
+        "javascript",
+        "web app",
+        "wit.ai"
+      ],
+      "author": {
+        "firstname": "Donato",
+        "lastname": "Rotunno",
+        "twitter": "@ralf57",
+        "blog": "",
+        "bio": "Donato Rotunno is Senior (mostly) Frontend Developer at Liip AG in Fribourg, Switzerland. Passionate about modern Frontend development and web technologies, he also likes to take great care about details and User Experience in general. His experience spreads from old-style-legacy Java applications to latest, cutting-edge MVC frontend frameworks like Backbone or Ember.js. When away from his laptop, you can find him playing football, coaching kids at football camps, shooting photography and having fun with his 2 kids and his wife.",
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/208237"
+      }
+    },
+    {
+      "title": "The Azure Cloud 3 Step Theorem",
+      "description": "We all know that Azure is a multi-headed beast which can either be tamed or grow wild on you, your choice. But where do we start? And I do mean literally… where do we start looking on deciding which architecture that we’re going to need on our quest for glory. This decision session will guide you in your first steps on how to go from Minimal Control to Full Control but also with all the caveats mentioned. We’ll talk about on deciding on whether to use Azure Websites, Azure Cloud Services or Azure VM’s and your use for scalable architectures.",
+      "tags": [
+        "azure",
+        "cloud",
+        "web"
+      ],
+      "author": {
+        "firstname": "Mike",
+        "lastname": "Martin",
+        "twitter": "@techmike2kx",
+        "blog": "http://techmike2kx.wordpress.com",
+        "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+        "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+      }
+    },
+    {
+      "title": "Developing Microsoft Azure Websites with Visual Studio Online 'Monaco': because it’s mundane Monaco!",
+      "description": "With Visual Studio Online or shortly VSO, Microsoft already offered a broad range of tools and services that support different kinds of development. To further build on that vision, Microsoft recently released a preview of “Monaco”, a new development service specifically designed for building and maintaining Microsoft Azure Websites. With Monaco, Microsoft provides developers with a lightweight, friction free companion to the Visual Studio IDE that is accessible from any device on any platform. It is a rich, browser based, code focused development environment optimized for the Microsoft Azure platform, making it easy to start building and maintaining applications for the cloud. In this session we will walk you through this exciting new Microsoft Azure service, show you how fast you can make changes in Monaco and how the online experience can speed up your development and offers you an even greater set of tools than the ones you already use every day. We will talk about more advanced scenarios, and show you how the extensions work, how you can leverage Git and TFS source control in combination with Monaco, and how you can even make live changes, compile them and have them reflected immediately online.",
+      "tags": [
+        "azure",
+        "cloud",
+        "web"
+      ],
+      "author": {
+        "firstname": "Mike",
+        "lastname": "Martin",
+        "twitter": "@techmike2kx",
+        "blog": "http://techmike2kx.wordpress.com",
+        "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+        "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+      }
+    },
+    {
+      "title": "The toolshed: Inside Microsoft Azure Tools : Your daily hammers",
+      "description": "Visual Studio 2013, MSFT’s flagship was released in November 2013 and people just love it. With it came the new release of the online version and also one for Microsoft Azure integrated in WAWS. This doesn’t made the choice of tooling  easier on all of us. And thus maybe it’s about time to take a look what we can do with all the available tools and which tools are your best tools of the trade. And is there such a thing as “One Tool to rule’em all”? This session will hopefully enlighten your path to Microsoft Azure Tooling (for Dev, IT Pro and asset Management)SMALL Note: this session isn’t sponsored although it’s mostly about partner solutions! Some free software may be included.",
+      "tags": [
+        "azure",
+        "cloud",
+        "web",
+        "tooling"
+      ],
+      "author": {
+        "firstname": "Mike",
+        "lastname": "Martin",
+        "twitter": "@techmike2kx",
+        "blog": "http://techmike2kx.wordpress.com",
+        "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+        "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+      }
+    },
+    {
+      "title": "Lights, Camera, Action - Microsoft Azure Media Services on the Loose",
+      "description": "You just cannot imagine the Web without audio and video services. Up until now, if you want to include streaming media content in your websites or applications, you need to rely on third party services or massive computing capacity for media transcoding, and streaming to a range of client devices. With the release of Microsoft Azure Media Services and the Media Services SDK, these capabilities are becoming easily available for you to incorporate in your websites and applications. In this session we'll give an overview of Microsoft Azure Media Services, and you'll learn from a series of demos how you can take advantage of the platform to add media content to your development. We'll also see what the competition has in store and what's missing.",
+      "tags": [
+        "azure",
+        "cloud",
+        "web",
+        "tooling",
+        "media"
+      ],
+      "author": {
+        "firstname": "Mike",
+        "lastname": "Martin",
+        "twitter": "@techmike2kx",
+        "blog": "http://techmike2kx.wordpress.com",
+        "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+        "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+      }
+    },
+    {
+      "title": "Putting The CD In The CI With The GIT , The ALM And Other Acronyms That Don’t Make Sense When Putting Them All In One Phrase",
+      "description": "We build, deploy, and redo the same thing over and over again. If we’re lucky we find ourselves an automated system (that’s what we all hope for as consultants that is  ) And that’s all ok , but what are the best practices when doing this in the Cloud? And where can Azure help us (in combo with others that is ). A journey into Continuous integration, delivery, lifecycle and releasemanagement.",
+      "tags": [
+        "azure",
+        "cloud",
+        "web",
+        "tooling"
+      ],
+      "author": {
+        "firstname": "Mike",
+        "lastname": "Martin",
+        "twitter": "@techmike2kx",
+        "blog": "http://techmike2kx.wordpress.com",
+        "bio": "Mike is Microsoft Lead Consultant and Architect at Crosspoint Solutions (part of the Cronos group), a company with a strong focus on BI, Data and CRM. Mike is mainly focused on the complete Microsoft product stack and therefore very flexible to work with. He’s been active in the IT industry for over 15 years and has performed almost all types of job profiles, going from coaching and leading a team to architecting and systems design and training. Today he’s primarily into the Microsoft Cloud Platform and Application Lifecycle Management. He’s not a stranger to both dev and IT Pro topics. In January 2012 he became a crew member of AZUG, the Belgian Microsoft Azure User Group. As an active member he’s both involved in giving presentations and organizing events. Mike is also a Microsoft Azure MVP (already awarded twice) and Microsoft Azure Insider. Mike likes helping out in the community and introducing new & young people into the world of Microsoft and technology.",
+        "avatarUrl": "http://s.gravatar.com/avatar/45efeb5bf94b522ac5807a33860525de?s=80"
+      }
+    },
+    {
+      "title": "Why Middleware?",
+      "description": "OWIN has a concept of middleware. So does ASP.NET 5. Why? What is middleware? How does it help in typical web applications? In this talk we will dive into the code, write some middleware and show how middleware helps you handle cross-cutting concerns in an isolated and re-usable way. I'll compare and contrast the OWIN and ASP.NET 5 middleware concepts and talk about where each is appropriate.",
+      "tags": [
+        "OWIN",
+        "ASPNET vNext",
+        "web",
+        "micro services"
+      ],
+      "author": {
+        "firstname": "Christian",
+        "lastname": "Horsdal",
+        "twitter": "@chr_horsdal",
+        "blog": "http://www.horsdal-consult.dk",
+        "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+        "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+      }
+    },
+    {
+      "title": "Layers Considered Harmful",
+      "description": "Layers are killing us. All the time. They are killing our communication. They are killing our speed. They are killing the others speed as well. We need to do better. Which we can. I'll tell why layers are killing us. I might even tell you something about how to do better.",
+      "tags": [
+        "web",
+        "micro services",
+        "architecture"
+      ],
+      "author": {
+        "firstname": "Christian",
+        "lastname": "Horsdal",
+        "twitter": "@chr_horsdal",
+        "blog": "http://www.horsdal-consult.dk",
+        "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+        "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+      }
+    },
+    {
+      "title": "Advanced Nancy",
+      "description": "In this hands-on session, we will take a look how to get beyond the basics and build secure and reliable application for the Real World with Nancy. In the process, we will get into authentication, authorization, input validation and error handling and swapping out defaults for custom implementations. All in a test-friendly manner following the Super Duper Happy Path of Nancy web application development.(Part of this material is covered in my book on the Nancy web framework, part of it goes beyond that.)",
+      "tags": [
+        "Nancy",
+        "web"
+      ],
+      "author": {
+        "firstname": "Christian",
+        "lastname": "Horsdal",
+        "twitter": "@chr_horsdal",
+        "blog": "http://www.horsdal-consult.dk",
+        "bio": "Christian is an independent consultant, MS MVP for .NET, Nancy MVM, problem solver and single malt aficionado",
+        "avatarUrl": "http://s.gravatar.com/avatar/0b16e1ac4e986b6dfc2c09571159c72f?s=80"
+      }
+    },
+    {
+      "title": "Azure Webjobs - the easiest way to use Azure",
+      "description": "If you ever wanted to use the power of Azure for processing or loading data Azure WebJobs are the easiest option. In this talk I will show the features and possibilities of the different WebJobs flavors and how you can enhance existing applications without losing the capability to run it outside of Azure.",
+      "tags": [
+        "azure",
+        "azure webjobs",
+        "cloud",
+        ".net"
+      ],
+      "author": {
+        "firstname": "Robert",
+        "lastname": "Muehsig",
+        "twitter": "@robert0muehsig",
+        "blog": "http://blog.codeinside.eu",
+        "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+      }
+    },
+    {
+      "title": "Sign in & co. with Azure Active Directory for your Mobile-, Desktop- or Web-App - the Facebook Login for the business world",
+      "description": "In this talk I will show you how to enable 'Sign in with Azure Active Directory' for your Mobile, Desktop or Web-Applications. You need to secure Web APIs? No problem. You need an easy way to protect your Azure website? Yep. And after we made the first step, we will dig deeper to the Graph API and explore the connection between Azure Active Directory and Office 365.",
+      "tags": [
+        "azure",
+        "azure active directory",
+        "identity",
+        "security",
+        "office365"
+      ],
+      "author": {
+        "firstname": "Robert",
+        "lastname": "Muehsig",
+        "twitter": "@robert0muehsig",
+        "blog": "http://blog.codeinside.eu",
+        "bio": "Hi, my name is Robert Muehsig and I'm a software developer and live in Switzerland. My main focus is around web technologies and the Microsoft Stack. Since a couple of years I'm a ASP.NET MVP and always try to learn new stuff and help other people. And I like to travel, so... that's me.",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1757756291/profile.png"
+      }
+    },
+    {
+      "title": "Mind the gap!",
+      "description": "An unknown Mobile 'country'. A wandering developer from Web 'city'. No idea about how to deal with the 'droids', where getting great 'apples' to eat and what 'windows' would be opened to me. The only available means of transport: the express 'JavaScript' train, the most up-to-date 'Html' Tube and the confortable and safe 'CSS' Tram. Tension, drama, action and finally, love. This is my love story with cross-platform mobile frameworks. In this talk we'll speak about the existent cross-platform mobile frameworks, talking openly about weaknesses, strengths and myths present in cross platforms, from the point of view of a newbie mobile developer. Do you want to join me on this trip? This is your talk!",
+      "tags": [
+        "cross-platform",
+        "mobile development",
+        "phonegap"
+      ],
+      "author": {
+        "firstname": "Alberto",
+        "lastname": "Lopez",
+        "twitter": "@albertuslm",
+        "blog": "http://albertolopezmartin.com/en",
+        "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
+        "avatarUrl": "http://www.gravatar.com/avatar/b3e82acd2587daeaeb5c0d0fe288e97f.png"
+      }
+    },
+    {
+      "title": "web development beyond the Web: IoT",
+      "description": "Over the latest years, the line between offline and online world becoming thinner, practically disappearing. Today, thanks to the new technologies, is possible take the control of all the things of your offline world using the power of the online world to enhance our daily business. Who didn’t ever feel that would be great having the APIs you use on the web available for your daily life? C’mon! Say hello to the fusion between Web and & IoT!",
+      "tags": [
+        "web development",
+        "Internet of Things"
+      ],
+      "author": {
+        "firstname": "Alberto",
+        "lastname": "Lopez",
+        "twitter": "@albertuslm",
+        "blog": "http://albertolopezmartin.com/en",
+        "bio": "Hi, I am Alberto Lopez and I work as EMEA Developer Advocate at Braintree_Dev and I live in Spain. I am passionate about innovation, mobility and Internet and commerce technologies. As an EMEA Developer Advocate at Braintree Dev, I look forward to opportunities to demonstrate how those crazy ideas we all have in mind can be turned into pragmatic solutions. Always learning new things, sharing experiences and knowledge with others, and everyday hungry for new challenges in the tech world; testing products, languages and in general, playing with tech and pushing what can be hacked to the limit.",
+        "avatarUrl": "http://www.gravatar.com/avatar/b3e82acd2587daeaeb5c0d0fe288e97f.png"
+      }
+    },
+    {
+      "title": "ASP.NET 5: How to Get Your Cheese Back",
+      "description": "ASP.NET 5 is the new kid on the block, and it's here with a lot of new, unfamiliar features and concepts. As a developer, it's not yet clear why to start developing on ASP.NET 5 or, more importantly, why to move an existing, healthy project to it. I hear a lot of Questions like: 'wow, it wasn't like that before, why has it changed?' 'I'm not familiar with these concepts, so should I stick with [the thing that I am using now]?'. In this talk, I'll cover the reasons why you should start considering ASP.NET 5 by boiling it down to the tried-and-tested format: 10 top features. We'll cover everything from new project structures to unified MVC and Web API frameworks, complete with samples and clear explanations of how these things are going to affect the way you code and the way you build projects. Along the way, we'll cover other little gems like the new Configuration framework. By the end of the talk, the advantages - and potential pitfalls - of using ASP.NET 5 in terms of both runtime and development process should be crystal clear, and you'll be able to work out when's the right time to start using the latest shiny Microsoft bits.",
+      "tags": [
+        "aspnet-5",
+        "http",
+        "web",
+        "dotnet"
+      ],
+      "author": {
+        "firstname": "Tugberk",
+        "lastname": "Ugurlu",
+        "twitter": "@tourismgeek",
+        "blog": "http://tugberkugurlu.com",
+        "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
+        "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
+      }
+    },
+    {
+      "title": "Going Further with ASP.NET 5",
+      "description": "After getting to know ASP.NET 5, and seeing where it’s different from previous versions, it's time to master the next development framework! If you want to go a little further and look under the hood of ASP.NET 5, this session will be for you. In this talk, I will cover the more advanced features shipping in as part of the new ASP.NET, like language extensibility, hosting, and in-memory end-to-end testing with samples. We’ll also have a chance to see some end-to-end project examples, demonstrating how your workflows and coding might change, and some corner case issues and gotchas you might hit. Generally, this talk will broaden your understanding  of what will be possible with ASP.NET 5, and you’ll know where to look if you want to get one step closer to mastery.",
+      "tags": [
+        "aspnet-5",
+        "http",
+        "web",
+        "dotnet"
+      ],
+      "author": {
+        "firstname": "Tugberk",
+        "lastname": "Ugurlu",
+        "twitter": "@tourismgeek",
+        "blog": "http://tugberkugurlu.com",
+        "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
+        "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
+      }
+    },
+    {
+      "title": "React.js in a real world application",
+      "description": "React.js is the new kid in the world of frontend frameworks. A brief introduction on what it is and how we are using it in a real world application",
+      "tags": [
+        "javascript",
+        "facebook",
+        "frontend",
+        "nodejs"
+      ],
+      "author": {
+        "firstname": "Emanuele",
+        "lastname": "DelBono",
+        "twitter": "@emadb",
+        "bio": "I’m web developer passionate about programming languages. I work in a software house based in Italy where I develop web applications in C#, Ruby and Javascript and hopefully Elixir. I strive for good design, clean code and software that make this world a little better.",
+        "avatarUrl": "https://avatars2.githubusercontent.com/u/276876"
+      }
+    },
+    {
+      "title": "Extending RWD with Lightweight Client-side Device Detection",
+      "description": "The power and effectiveness of RWD is out of question; as well as the cracks that show up when the business demands full support for a variety of form factors such as smartphone and tablet. RWD is great if changes across visual breakpoints can be implemented without performance and bandwidth hits through CSS. In this session, we’ll present WURFL.js a lightweight client-side frontend for device detection. Use of WURFL.js and its twin image tailor library gives you the unparalleled chance to switch layouts across breakpoints not just when the screen width changes but also when the form factor changes and you won’t be any longer treating a smartphone device the same as a tiny resized browser window.",
+      "tags": [
+        "javascript",
+        "mobile",
+        "frontend"
+      ],
+      "author": {
+        "firstname": "Dino",
+        "lastname": "Esposito",
+        "twitter": "@despos",
+        "bio": "CTO @ http://Crionet.com , mobile strategist, software architect, trainer, book author, father of a genius or two. Would like to be a tennis player too.",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/558543071726411776/lXpBBh9Q_400x400.jpeg"
+      }
+    },
+    {
+      "title": "Lightning Components: A JavaScript Component Framework for Enterprise Multi Tenant Architecture",
+      "description": "For years, Salesforce has been developing their next generation open source Javascript component framework for internal usage. It has now been opened up and put in the wild for any developer using the Salesforce platform to build a custom UI. This talk will be a walk through of code and architecture to discover how we are solving the unique problems of Enterprise multi-tenancy in a client-side Javascript framework.",
+      "tags": [
+        "javascript",
+        "enterprise",
+        "multi tenant"
+      ],
+      "author": {
+        "firstname": "Peter",
+        "lastname": "Chittum",
+        "twitter": "@pchittum",
+        "blog": "http://pchittum.com",
+        "bio": "Expat yank, French-speaking, developer, who lives in the UK. In enterprise software for over 15 years and currently working for Salesforce as a Developer Evangelist in the EMEA region. Never found time to specialize in any one thing, but I love to share what I know.",
+        "avatarUrl": "http://www.gravatar.com/avatar/b065413f369c62f5d99245fea052b667.png"
+      }
+    },
+    {
+      "title": "Gulp",
+      "description": "Gulp is a relative new kid on the block when it comes down to javascript based task runners. However it gained a fast paced uprise and has also become the preferred choice by Microsoft in ASP.NET 5, but not limited to that. This session will give you an introduction to Gulp and where you can use it in your daily development efforts. This is a level 300 session.",
+      "tags": [
+        "javascript",
+        "enterprise",
+        "gulp",
+        "task runner"
+      ],
+      "author": {
+        "firstname": "Kris",
+        "lastname": "van der Mast",
+        "twitter": "@KvdM",
+        "blog": "http://www.krisvandermast.com",
+        "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+      }
+    },
+    {
+      "title": "Code with Visual Studio Online (codename Monaco)",
+      "description": "Visual Studio Online, formerly codenamed Monaco, is a great addition to Microsoft Azure Web Apps. It provides the means to develop new sites from scratch or change deployed material inside the browser. Come to this session to learn all about it. This is a level 300 session.",
+      "tags": [
+        "visual studio",
+        "azure",
+        "microsoft",
+        "web apps",
+        "monaco"
+      ],
+      "author": {
+        "firstname": "Kris",
+        "lastname": "van der Mast",
+        "twitter": "@KvdM",
+        "blog": "http://www.krisvandermast.com",
+        "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+      }
+    },
+    {
+      "title": "ASP.NET 5",
+      "description": "Microsoft has been working hard the last years to ship this product and it's not a simple version next. A lot has changed behind the covers to build a better framework that has a better performance and things like TagHelpers. Come and see this session if you want to keep up to speed with the latest and greatest. This is a level 300 session.",
+      "tags": [
+        "asp.net 5",
+        "microsoft"
+      ],
+      "author": {
+        "firstname": "Kris",
+        "lastname": "van der Mast",
+        "twitter": "@KvdM",
+        "blog": "http://www.krisvandermast.com",
+        "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+      }
+    },
+    {
+      "title": "F12 tools in IE and Microsoft Edge",
+      "description": "Life as a web developer has become increasingly more complex during the years. Luckily modern browsers provide handy developer, so called F12, tools. This session will show what you can do with the tools inside IE 11 and Microsoft Edge. This is a level 300 session.",
+      "tags": [
+        "F12 tools",
+        "microsoft",
+        "microsoft Edge",
+        "web development"
+      ],
+      "author": {
+        "firstname": "Kris",
+        "lastname": "van der Mast",
+        "twitter": "@KvdM",
+        "blog": "http://www.krisvandermast.com",
+        "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+      }
+    },
+    {
+      "title": "ASP.NET 5 TagHelpers",
+      "description": "This session is all about the new taghelpers in ASP.NET 5. It's your way make much cleaner markup focussed views even your web designer will love. This is a level 300 session.",
+      "tags": [
+        "asp.net 5",
+        "taghelpers",
+        "microsoft"
+      ],
+      "author": {
+        "firstname": "Kris",
+        "lastname": "van der Mast",
+        "twitter": "@KvdM",
+        "blog": "http://www.krisvandermast.com",
+        "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+      }
+    },
+    {
+      "title": "Azure App Service",
+      "description": "Microsoft Azure is constantly on the move. One of the offerings introduced in 2015 was Azure App Services, which enables you to create applications more easily in a mobile first, cloud first world we live in today. This session gives you an overview of what you can do with the new offerings. This is a level 300 session.",
+      "tags": [
+        "azure",
+        "microsoft",
+        "app service"
+      ],
+      "author": {
+        "firstname": "Kris",
+        "lastname": "van der Mast",
+        "twitter": "@KvdM",
+        "blog": "http://www.krisvandermast.com",
+        "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+      }
+    },
+    {
+      "title": "Sharepoint Provider hosted apps for web developers",
+      "description": "Most developers are not keen on Sharepoint development. With the new Sharepoint Provider Hosted Apps offering Microsoft provides us with a new way of developing while bringing your ASP.NET skills with you. This is a level 300 session.",
+      "tags": [
+        "sharepoint",
+        "web development",
+        "microsoft"
+      ],
+      "author": {
+        "firstname": "Kris",
+        "lastname": "van der Mast",
+        "twitter": "@KvdM",
+        "blog": "http://www.krisvandermast.com",
+        "bio": "Kris has been active professionally in the IT sector since 2000. His main focus is the Microsoft web stack and Azure. In this context Kris became an MVP in 2007 and is still up to this date. Furthermore Kris is credited by Microsoft as an ASP Insider, Azure Insider, Azure Advisor and is actively involved in the Belgian MEET (Microsoft Extended Experts Team) group. He's also a board member of AZUG, the Belgian Azure user group helping to spread the cloud message",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/1250133"
+      }
+    },
+    {
+      "title": "Rapid Mobile Development with Ionic framework",
+      "description": "Meet Ionic, the best tool for faster go-to market strategy. Nowadays, developing mobile applications is about both technology and development time/cost. It's a hot topic for large companies and small startups who need to go to market quickly and cost-effectively. Ionic is the perfect tool for the rapid cross-platform development of high-quality mobile apps.",
+      "tags": [
+        "ionic framework",
+        "mobile development",
+        "hybrid apps",
+        "angular js"
+      ],
+      "author": {
+        "firstname": "Alessio",
+        "lastname": "Delmonti",
+        "twitter": "@alexintosh",
+        "blog": null,
+        "bio": "Alessio Delmonti is passionate about software development and innovation processes. Since 2007, he has been involved in a series of web and mobile projects for clients like Vileda, MTV, Bacardi, and Premium Retail. In 2013, he co-founded his first startup, Wiralist, where he currently works as chief technology officer. He also founded and manages the italian community of Ionic framework",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/497193387707998209/JGVlyH9l.jpeg"
+      }
+    },
+    {
+      "title": "I have inherited a large, complex, messy, sh*tty CSS codebase. And now?",
+      "description": "There are lots of methodologies, approaches, blog posts, guides that tell you how to structure your CSS code. Everything looks nice and easy when you can start from scratch. But what happens when you inherit a large codebase, so complex, tangled and messy that every time you touch something, something else breaks? Where do you start to tackle the problem, how can you refactor the code? Which libraries/frameworks/approaches/patterns can help you in this process? In this talk I'll try to give an answer to all of these questions.",
+      "tags": [
+        "sass",
+        "css",
+        "architecture",
+        "refactoring",
+        "styleguides",
+        "bem"
+      ],
+      "author": {
+        "firstname": "Cristiano",
+        "lastname": "Rastelli",
+        "twitter": "@areaweb",
+        "blog": "http://www.didoo.net",
+        "bio": "Passionate web designer & developer, I like to think of myself as a builder of bridges between business, design and development. I attend technical conferences and meetups, and sometimes it even happens that I speak there.",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/2902201348/82fa1708dbf3783cb7bbb6907c7871fa_400x400.png"
+      }
+    },
+    {
+      "title": "Hack! Compile React components to Django",
+      "description": "A retrospective of building a source-to-source compiler to translate React components written in JavaScript into Django templates; from the basic architecture of a compiler to an example of compiled React component",
+      "tags": [
+        "react",
+        "javascript",
+        "python"
+      ],
+      "author": {
+        "firstname": "Daniele",
+        "lastname": "Esposti",
+        "twitter": "@expobrain",
+        "blog": "http://www.expobrain.net",
+        "bio": "Daniele is a developer with experience in desktop applications and back-end web services. His job is to design and implements scalable systems using Python as a main language. He likes to understand the technology at a low level, not just using it. His dream is to become an astrounaut.",
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/2404909"
+      }
+    },
+    {
+      "title": "Fun with Functional JavaScript",
+      "description": "It might be a surprise for some of you, but JavaScript can be regarded as a functional programming language. Why don't we use more functional programming concepts in our JavaScript code, then? In this talk you will learn how to start including some of them in your applications and when they might be particularly beneficial. You will also get familiar with libraries that extend the functional capabilities of JavaScript (lodash and FunctionalJS) and the upcoming ES6 features that make JavaScript even more functional.",
+      "tags": [
+        "JavaScript",
+        "FunctionalProgramming",
+        "ES6",
+        "underscore",
+        "loadash"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "FutureJS - ES6, ES7 and beyond",
+      "description": "No, FutureJS is neither a new framework nor a library that you will hear everyone in the office talking about. This talk is actually about the future of JavaScript, or rather EcmaScript, as that is its official name.The process of standardising EcmaScript 6 (aka Harmony) is finally reaching its final stages. The ES Commitee also uncovered plans for the future editions of the language (ES7 and beyond). It's time we started getting to know all new features that we will all be using in a few years time. Actually, we can do even better! We can start using the most interesting and useful features right now thanks to ES6 compilers like Google's Traceur. They will translate the new ES6 code to its ES5 equivalent form, which our current browsers can understand and execute. In this talk you will learn what are the most exciting new ES6 features as well as how to start using them right now thanks to Traceur.",
+      "tags": [
+        "JavaScript",
+        "ES6",
+        "ES7",
+        "EcmaScript",
+        "Traceur",
+        "Babel"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "Seriously, you should start testing that JavaScript code",
+      "description": "I think most professional programmers would agree that we should unit test our code to some degree. And usually that unit testing is happening in our back-end code, but what about our front-end? Yes, I am talking about our (increasingly large) JavaScript codebase. Those hundreds of lines of code could benefit a lot from being unit tested. Seriously, it could possibly save you a lot of problems down the line when you add a new feature without realizing that it breaks something else in the system. With tests in place you will know immediately (even right after saving the file with the new code changes). Without tests you will learn about it from your QA staff (if you’re lucky enough to have them) or from your end customer. In this talk you will get to know the tools (Karma, Jasmine, PhantomJS and Grunt) that make unit testing your JavaScript code a real pleasure.",
+      "tags": [
+        "JavaScript",
+        "Testing",
+        "UnitTests",
+        "Karma",
+        "Jasmine",
+        "PhantomJS",
+        "Grunt",
+        "TestAutomation"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "How NOT to design your API",
+      "description": "I spent the past few years integrating with various APIs in the world of ecommerce. Oh, the things I’ve seen and the pain I’ve endured… When you want to use a 3rd party API you can expect everything - from having to implement your own XML-RPC API to reading documentation that blatantly states: “Our wsdl can contain little errors which would make your integration difficult”. Having been through all this I believe it is very important to promote good standards of API design to save future programmers from the API hell. In this talk I will show you concrete examples of questionable API design decisions and suggest some better alternatives that won’t cause unnecessary hair loss for the developers who integrate with your API.",
+      "tags": [
+        "API",
+        "WorstPractices",
+        "PainfulIntegrations",
+        "RageDrivenDevelopment",
+        "REST",
+        "XML-RPC"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "OO considered harmful",
+      "description": "Object Oriented Languages have been mainstream for a few decades now. It might be a worthwhile exercise to step back and take a look at the pros and cons of using them in our projects. Is OO living up to the (very high) expectations? Is it simplifying our work or making it more complicated? The more experience I have with OO designs the more I realize that something is amiss. I believe that we are doing ourselves a disservice by blindly following OO principles because sometimes we might find another approach that would work out better for us. In this talk I will do my best to convince you that we should strive to do better than OO. At the very least I would like to make you question the technology choices on your next project and not choose OO as the default.",
+      "tags": [
+        "ObjectOrientation",
+        "Overkill",
+        "OverlyComplex",
+        "SimplicityMatters"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "Introduction to hybrid mobile apps with the Ionic Framework",
+      "description": "A revolution in mobile development is happening right in front of our very eyes, folks. Just a few years ago you wouldn’t even dream of creating a web app and being able to package it for App Store on iOS and Google Play on Android. Nowadays such tricks are finally possible and in this talk you will learn how to create a mobile app in a matter of minutes leveraging your existing knowledge of standard web technologies. All this thanks to the Ionic Framework. But that’s not all! You will also see how to make use of native device capabilities (e.g. flashlight, accelerometer etc.) in your apps in order to make them much more integrated than it was ever possible before.",
+      "tags": [
+        "JavaScript",
+        "Ionic",
+        "Cordova",
+        "AngularJS",
+        "HybridMobileApps",
+        "iOS",
+        "Android"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "Getting started with Meteor",
+      "description": "The world of JavaScript Frameworks is constantly evolving. It seems that almost every month there is a brand new thing that will revolutionise web development. However, having a closer look you don’t really see much revolutionary stuff in those new frameworks - they are usually just a small step forward from the previous thing. At least that’s how I felt in the past few years of doing JavaScript. Until I discovered Meteor, that is. It was enough to complete the getting started tutorial to realise that I’m dealing with a potential game-changer. First imagine that all communications happen via web sockets (way faster than REST API calls over HTTP). Then realise that you have a full blown MongoDB implementation accessible on the client side. Finally, remember that from now on you just need one programming language - JavaScript - to implement the whole application - from the client-side through to the back-end and all the way down to the database. In this talk you will see all this goodness brought together in one great package that is called Meteor.",
+      "tags": [
+        "JavaScript",
+        "Meteor",
+        "Reactive",
+        "MongoDB",
+        "LatencyCompensation",
+        "DeveloperOriented",
+        "MakeLifeEasier"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "Getting started with ClojureScript",
+      "description": "Functional programming is all the rage lately. It is now taking the world of JavaScript by storm thanks to the growing popularity of ClojureScript - the JS implementation of one of the most popular functional programming languages - Clojure. In this talk you will get a gentle, but thorough introduction to the core concepts of functional programming as well as to the basic concepts of Clojure. Thanks to the numerous live-coded samples you will be able to get a feel of the language and formulate your own opinion about it.",
+      "tags": [
+        "JavaScript",
+        "Clojure",
+        "ClojureScript",
+        "FunctionalProgramming",
+        "LISP"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "Aurelia - welcome to the future of JavaScript frameworks",
+      "description": "With the adoption of ES6 fast approaching and even more ambitious plans for JavaScript as we move forward (thanks to the exciting new features in ES7 and beyond), it seems to be a good time to evaluate the tools that we use for our front-end development. Aurelia - a new framework from Rob Eisenberg, the creator of Durandal and a former core member of the Angular team - shows us a glimpse of the future. A future where our framework is forward thinking (using ES6 and ES7 language features), ready to cooperate with Web Components and manages to seamlessly integrate into our development workflow. Come and see the future. It’s happening now!",
+      "tags": [
+        "JavaScript",
+        "Aurelia",
+        "TwoWayDataBinding",
+        "ES6",
+        "ES7",
+        "FrameworkOfTheFuture"
+      ],
+      "author": {
+        "firstname": "Kuba",
+        "lastname": "Walinski",
+        "twitter": "@kubawalinski",
+        "bio": "Kuba developed his passion for computing at an early age, playing Tetris and Civilization on the family's PC. He started coding in middle school, when he got his hands on a copy of Visual Studio and started playing with VB6. Then he went on discovering other programming languages: Pascal, C, C++, Java, PHP, Prolog, C#, JavaScript & Python. Though Kuba spent most of his 7+ year career as an ASP.NET/C# developer, for the past few months he's taken a deep dive in the (fascinating) world of JavaScript and is currently doing his best to earn the title of a JS Ninja. Having worked in a number of very different work environments (startup, small enterprise, big corporation), Kuba benefits from being able to approach programming challenges from different perspectives. Last year Kuba joined a fantastic rockstar development team at ABB. Since then he has been invited to a few conferences with his various talks and has delivered a number of presentations at user group meetups. Being passionate about sharing knowledge and meeting like-minded IT folk, he is also taking part in the preparations for the next edition of DevDay - one of the best programmer conferences in Poland. When he manages to finally get away from the keyboard, Kuba can often be seen riding a bike while listening to audiobooks (lately 'Metro 2034'). You can find him on twitter (@kubawalinski). He has also recently launched his blog at http://blog.kubawalinski.com/.",
+        "avatarUrl": "http://blog.kubawalinski.com/kuba.jpg"
+      }
+    },
+    {
+      "title": "Getting Into the Zero Downtime Deployment World with HTTP Applications",
+      "description": "Continuous delivery is a huge step forward in our ability to rapidly deliver features and value to the users of distributed HTTP applications, but it comes with a cost and a responsibility. Most modern web applications need to be highly available, and this also means that it should be up during the deployments. This obviously goes for HTTP based services, too (a.k.a. RESTful APIs). In these cases, dealing with zero-downtime deployments is a challenge, and there is no easy solution to this challenge. Moreover, the solutions available vary based on the number of integrated clients, which parts of the World it addresses, how many active users it has... Isn't there a simple way to figure out how to get there? Join me to get into the details of the key steps on your path to zero downtime deployments. Learn about the patterns, practices and techniques that make it easier, such as incremental deployments, applying semantic versioning to HTTP applications and blue/green deployments. We'll also walk through an end-to-end demo of how a high traffic web application can survive the challenge of deployments. What seemed insurmountable at the start of the session will be practical and applicable by the time we're finished, and you should be able to see how to start moving your production application close to the zero-downtime gold standard.",
+      "tags": [
+        "http",
+        "web",
+        "continuous-delivery",
+        "deployments"
+      ],
+      "author": {
+        "firstname": "Tugberk",
+        "lastname": "Ugurlu",
+        "twitter": "@tourismgeek",
+        "blog": "http://tugberkugurlu.com",
+        "bio": "I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I've worked at the tourism industry to build tourism software services and products for long time and now, I am working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also a very involved member in the community and try my way to expose my knowledge to others through my blog, webcasts, authoring books, giving talks on various topics and so on. I live in lovely and green Cambridge, UK and I am married to a lovely woman.",
+        "avatarUrl": "http://mvp.microsoft.com/private/en-us/PublicProfile/Photo/4039968"
+      }
+    },
+    {
+      "title": "OData v4: the easy way of exposing and querying structured data",
+      "description": "The REST architectural style is the currently most appreciated way to structure a backend for several good reasons. On the other side, there are many cases where you may want just to expose data using the classical CRUD. Furthermore, the nature of REST is schema-less that is an advantage from a versioning standpoint but it can be harder to browse for many clients. In this session, we will start discussing OData vs REST, then examine the v4 OASIS standard and dig into many samples and tools to rapidly start coding OData services.",
+      "tags": [
+        "OData",
+        "REST",
+        "Architecture",
+        "Data",
+        "CRUD"
+      ],
+      "author": {
+        "firstname": "Raffaele",
+        "lastname": "Rialdi",
+        "twitter": "@raffaeler",
+        "blog": "http://iamraf.net",
+        "bio": "Raffaele Rialdi is a senior Software Architect working as a consultant, speaker and trainer. Since 2003, he is a Microsoft MVP in the Developer Security category. His passion for the community brought him to be member of the board of UGIdotNET, president of DotNetLiguria and co-founder of the Italian C++ user group. Currently he is working as architect and developer on the backend of an enterprise project and working on cross-platform mobile development in both C# and C++ languages.",
+        "avatarUrl": "http://www.gravatar.com/avatar/2f72577141f4dfa8e985393773cb9e1f"
+      }
+    },
+    {
+      "title": "Asp.net 5 security 101",
+      "description": "Asp.net 5 is not just a new release of the famous web framework but a real turning point which every developer should take care of. While cross-platform and open-source looks like just buzzwords, they are really impacting the architecture of web applications and security is certainly a fundamental part. In this session, after a brief overview of the Asp.net 5 architecture, we will see which options we have to protect our application and web apis.",
+      "tags": [
+        "Security",
+        "AspNet5",
+        "authentication",
+        "authorization",
+        "architecture"
+      ],
+      "author": {
+        "firstname": "Raffaele",
+        "lastname": "Rialdi",
+        "twitter": "@raffaeler",
+        "blog": "http://iamraf.net",
+        "bio": "Raffaele Rialdi is a senior Software Architect working as a consultant, speaker and trainer. Since 2003, he is a Microsoft MVP in the Developer Security category. His passion for the community brought him to be member of the board of UGIdotNET, president of DotNetLiguria and co-founder of the Italian C++ user group. Currently he is working as architect and developer on the backend of an enterprise project and working on cross-platform mobile development in both C# and C++ languages.",
+        "avatarUrl": "http://www.gravatar.com/avatar/2f72577141f4dfa8e985393773cb9e1f"
+      }
+    }
+  ]
 }
