@@ -1,6 +1,178 @@
 {
   "proposal": [
     {
+      "title": "Self-improving software",
+      "description": "more details at http://glebbahmutov.com/blog/tags/modular-development/",
+      "description": "Any JavaScript project requires 3rd party modules. As soon as you depend on specific versions, your module falls behind. I will show how to keep your software up to date without any effort (as long as there are some tests). You can automatically upgrade dependencies for an individual project, a collection of projects. You can even see the anonymous version upgrade results across the public projects around the world to judge if a particular update is likely to succeed. What about projects that depend on your software? Before releasing a new version, you can test some or all of your dependencies against the new code. I hope that anyone trying to work around the problem of keeping the modules working together and being up to date will find my approach very useful.",
+      "tags": [
+        "JavaScript",
+        "Architecture",
+        "Modular development",
+        "Semantic versioning"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "What did we just test?",
+      "description": "Code coverage tools are extremely useful, yet they show what the final coverage looks like. In the most development setups, the individual commits are cherry picked from the development to the staging to the production branch. The final coverage might be very different after some updates are transferred and merged. I will show two separate tools that enhance the code coverage computed from unit tests. First, there is a code coverage proxy `was-tested` that I wrote. It collects code coverage information during end 2 end feature testing, usually performed by the QA people. This is extremely valuable, because most of the front-end code is extremely time consuming to test using automated tests. Second, I wrote tested-commits tool that takes any code coverage information and splits it back to coverage by an individual commit. Thus we can track how much we have tested each feature / bug fix that merged and moved around the branches. Taken together, we can reliably speak about each feature tested at 90% before being deployed to production, even if the testing is manual.",
+      "tags": [
+        "JavaScript",
+        "Testing",
+        "Software quality"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "Web application profiling using code snippets",
+      "description": "Chrome DevTools code snippets became my favorite tool when investigating performance bottlenecks in web applications. A JavaScript fragment can be stored as a named snippet in the 'Sources' DevTools panel and executed in the current page's context, just as if it were a code executed in the browser's console. Using code snippets we can start CPU, timeline and memory profilers, get very accurate information about any performance measurement, and quickly find the application's bottlenecks. We can even auto update locally stored code snippets using a code snippet! In this presentation I will go through a typical web application, using different code snippets to measure and locate bottlenecks. Any developer trying to make a page faster would benefit from knowing about code snippets.",
+      "tags": [
+        "Web",
+        "Performance",
+        "Profiling",
+        "DevTools"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "Journey from procedural to reactive JavaScript with stops",
+      "description": "JavaScript is an interesting language. It can mimic almost any style you want: procedural, object-oriented, functional, etc. In this presentation I will take a simple problem and will solve it using different approaches. With each step we will see the power of each approach to take the complexity away, while still being the JavaScript we all love to hate. The following topics will be shown: procedural (imperative) style, object-oriented, functional, point-free, lazy evaluation, immutable data, async processing using promises, async processing using event emitters, advanced topics: transducers and streams, reactive programming using event streams. Any team looking to improve its code should attend this presentation. Making a single leap from object-oriented approach to reactive programming is too difficult, but you can make it step by step.",
+      "tags": [
+        "JavaScript",
+        "Functional",
+        "Reactive",
+        "Learning",
+        "Training"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "How do you deal with runtime errors?",
+      "description": "What happens when there is an exception in your JavaScript code? Does the application crash? Does it show an error message to the user? Does it send the information to the developer? In this presentation I will show how to improve the quality of your JavaScript apps without spending a lot of time testing. Anyone tired of deploying websites only to see them break apart, or exhausted from banging on the app before deployment should attend this presentation.",
+      "tags": [
+        "Web",
+        "Application",
+        "Quality",
+        "Crash reporting"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "Improving Angular application performance",
+      "description": "Once your Angular application has the features you need, the next step is usually focused on improving its performance. The initial load time, responsiveness to user's commands - the application has to execute quickly in order to be useful. Is Angular framework fast or slow? I argue that is very fast, but requires knowing how to measure and optimize the right bottlenecks. In this example I will show multiple possible performance traps and how to detect and solve each one.",
+      "tags": [
+        "AngularJS",
+        "Profiling",
+        "Performance"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "Promises, promises, promises",
+      "description": "Promises cut through the callback hell. Yet, they have their own quirks. In this talk I will show how to properly terminate promise chain in order to avoid silent errors; how to chain multiple steps together; how to tap into the chain for debugging; how to generate success vs error paths; how to add timeouts; how to generate and cache resources using promises. Finally, I will show how JavaScript despite a single thread still might have a concurrency problem due to the unexpected execution ordering.",
+      "tags": [
+        "JavaScript",
+        "Promises"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "Remove the boilerplate",
+      "description": "In this talk I will show how to remove lots and lots of unnecessary code from your application. Counter variables, wrapper functions, callbacks - they can all be removed using utility libraries or even built-in JavaScript ES5 language features. In particular I will show how to remove: callbacks and pyramids of doom, extra functions just to massage the arguments, wrapper functions, manual iterations, special emphasis on removing boilerplate code from the unit tests. In each instance there will be a lot less code, but it will be more robust, manageable and simpler to reason about and test.",
+      "tags": [
+        "JavaScript",
+        "Quality"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "Replacing built-in Node require",
+      "description": "The Node `require` method that loads source files, compiles and caches them is ok, but could be made a lot more powerful. Luckily one can replace the built-in `require` in user space without much effort. In this presentation I will show how to: 1 - use your own `require` version with extra features, like cache busting and passing extra variables or loaded code transformation. 2 - speed up application startup by 25% with a single require include to avoid path hunting.",
+      "tags": [
+        "NodeJS"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
+      "title": "Explain with examples, without writing any",
+      "description": "Humans learn best by example; good technical docs use lots of them. Yet all modern documentation tools (think jsdoc) making writing correct examples and maintaining them a chore. There is no tool support for syntax highlighting, or even guarantee that an example is correct or up to date. On the other hand, solid software projects have lots of well tested, up to date examples. We call them unit tests! In this presentation I will show how to take the unit tests and transform into syntax-agnostic human-friendly examples to be plugged into your docs. Documenting your API will never be the same - it will be a simple and pleasant experience. One can even target other types of documentation: my blog posts have examples that are generated from unit tests, thus sparing me the embarrassment of having a broken source fragment.",
+      "tags": [
+        "JavaScript",
+        "Documenting",
+        "Unit tests"
+      ],
+      "author": {
+        "firstname": "Gleb",
+        "lastname": "Bahmutov",
+        "twitter": "@bahmutov",
+        "blog": "http://glebbahmutov.com/blog/",
+        "bio": "Gleb Bahmutov is JavaScript ninja, image processing expert and software quality fanatic. After receiving a PhD in computer science from Purdue University, Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours at EveryScape. Later Gleb switched to writing browser data visualization software at MathWorks. After a year, Gleb went back to the startup environment and developed software quality analysis tools at uTest (now Applause). Today Gleb is developing real-time financial analysis tools at Kensho. He blogs about software development topics at http://glebbahmutov.com/blog/ and links his projects at http://glebbahmutov.com/. You can follow him and his work @bahmutov",
+        "avatarUrl": "https://raw.githubusercontent.com/bahmutov/bahmutov.github.io/master/gleb-alternative.jpg"
+      }
+    },
+    {
       "title": "You Can Have it Both Ways: Using Web Components in a React UI",
       "description": "Say that you really like how React.js works, and you are building the UI of your web application in React, using React components. But say that there is some Web Component around that is exactly what you need, and you'd like to use it (after all, that's the main point of web components: to be easily reusable). In this talk we'll see how you can have your cake and eat it too, reusing existing web components inside the React virtual DOM.",
       "tags": [
