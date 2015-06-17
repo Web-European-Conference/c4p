@@ -1089,5 +1089,24 @@
         "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
       }
     }       
+    ,
+    {
+      "title": "And you can do this with ADAL?",
+      "description": "ADAL, or Active Directory Authentication Library is  the one stop shop for your Authentication scenarios with Active Directory. A mature product which helps you, the developer, to integrate with Active Directory - On Premises or in Azure, regardless of the platform you are working on. Literally. Join this session to see the power of ADAL and to be surprised from the vast number of platforms it supports.",
+      "tags": [
+        "Security",
+        "authentication",
+        "federation",
+        "Azure AD"
+      ],
+      "author": {
+        "firstname": "Anton",
+        "lastname": "Staykov",
+        "twitter": "@astaykov",
+        "blog": "http://blogs.staykov.net",
+        "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
+        "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
+      }
+    }       
   ]
 }
