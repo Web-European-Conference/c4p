@@ -1058,6 +1058,8 @@
         "Security",
         "Claims",
         "Tokens",
+        "authentication",
+        "federation",
         "Azure AD"
       ],
       "author": {
@@ -1068,6 +1070,24 @@
         "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
         "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
       }
-    }    
+    },
+    {
+      "title": "A lap around OpenID Connect with OWIN and KATANA",
+      "description": "There are a lot of sessions about security, claims and tokens. But the examples are usually focused around one concrete Identity Provider. In this code-oriented session we will check as many OpenID Connect certified Identity Management solutions as possible, so you can choose the one that you like the most",
+      "tags": [
+        "Security",
+        "authentication",
+        "federation",
+        "OpenID Connect"
+      ],
+      "author": {
+        "firstname": "Anton",
+        "lastname": "Staykov",
+        "twitter": "@astaykov",
+        "blog": "http://blogs.staykov.net",
+        "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
+        "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
+      }
+    }       
   ]
 }
