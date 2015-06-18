@@ -1032,6 +1032,81 @@
         "bio": "Raffaele Rialdi is a senior Software Architect working as a consultant, speaker and trainer. Since 2003, he is a Microsoft MVP in the Developer Security category. His passion for the community brought him to be member of the board of UGIdotNET, president of DotNetLiguria and co-founder of the Italian C++ user group. Currently he is working as architect and developer on the backend of an enterprise project and working on cross-platform mobile development in both C# and C++ languages.",
         "avatarUrl": "http://www.gravatar.com/avatar/2f72577141f4dfa8e985393773cb9e1f"
       }
+    },
+{
+    "title": "Devide and Conquer - the secrets behind Role Based Access Control with Azure AD",
+    "description": "Azure is taking speed into the fast pace world of X-as-a-Service. With more than dozen of services, it may quickly become a nightmare for administrators to manage. In this session we will take a look at the Role Based Access Control with Azure AD and in particular with the new Azure Portal. Join this session to understand how RBAC works and to see how to fine-grane controlls over your Azure Resources - who can do what?",
+    "tags": [
+        "Security",
+        "RBAC",
+        "Azure",
+        "Azure AD"
+    ],
+    "author": {
+        "firstname": "Anton",
+        "lastname": "Staykov",
+        "twitter": "@astaykov",
+        "blog": "http://blogs.staykov.net",
+        "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
+        "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
     }
+},
+    {
+      "title": "Claim, Token, Who are you?!",
+      "description": "We live in a 21st Century. Every person on the planet has a social accouint. Event pets have Facebook Profile. And if you are going to create the next big thing, one thing is sure - do not ask your users to create and manage password credentials with you! Just use what is already there. Claims and tokens have been there for a while, but just recently become more popular. Join this session to learn that there is not better thing than a claim and forget about password management in every application.",
+      "tags": [
+        "Security",
+        "Claims",
+        "Tokens",
+        "authentication",
+        "federation",
+        "Azure AD"
+      ],
+      "author": {
+        "firstname": "Anton",
+        "lastname": "Staykov",
+        "twitter": "@astaykov",
+        "blog": "http://blogs.staykov.net",
+        "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
+        "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
+      }
+    },
+    {
+      "title": "A lap around OpenID Connect with OWIN and KATANA",
+      "description": "There are a lot of sessions about security, claims and tokens. But the examples are usually focused around one concrete Identity Provider. In this code-oriented session we will check as many OpenID Connect certified Identity Management solutions as possible, so you can choose the one that you like the most",
+      "tags": [
+        "Security",
+        "authentication",
+        "federation",
+        "OpenID Connect"
+      ],
+      "author": {
+        "firstname": "Anton",
+        "lastname": "Staykov",
+        "twitter": "@astaykov",
+        "blog": "http://blogs.staykov.net",
+        "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
+        "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
+      }
+    }       
+    ,
+    {
+      "title": "And you can do this with ADAL?",
+      "description": "ADAL, or Active Directory Authentication Library is  the one stop shop for your Authentication scenarios with Active Directory. A mature product which helps you, the developer, to integrate with Active Directory - On Premises or in Azure, regardless of the platform you are working on. Literally. Join this session to see the power of ADAL and to be surprised from the vast number of platforms it supports.",
+      "tags": [
+        "Security",
+        "authentication",
+        "federation",
+        "Azure AD"
+      ],
+      "author": {
+        "firstname": "Anton",
+        "lastname": "Staykov",
+        "twitter": "@astaykov",
+        "blog": "http://blogs.staykov.net",
+        "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
+        "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
+      }
+    }       
   ]
 }
