@@ -1107,6 +1107,19 @@
         "bio": "Anton has more than 13 years of professional experience. He works with Microsoft Azure since October 2008 when it was first announced and holds Microsoft MVP reward in the field of Azure since April’2011. Currently serving as a Solutions Architect for Smarthouse Media GmbH, leader on the German software market delivering oslutions for the Financial Industry. Anton is always happy to talk about Cloud.",
         "avatarUrl": "https://en.gravatar.com/userimage/28474005/e500432c1093eab7e7a27e2373f0b079.jpg?size=200"
       }
-    }       
+    },
+    {
+        "title": "What is Scalability and why you should write a scalable application",
+        "description": "Everywhere in IT we hear about scalability, but what is scalability and why your software should be scalable? What are the benefits you can get from a scalable architecture? We will discuss on pros and cons of scalable architecture inside this talk.",
+        "tags": ["Cloud", "Azure", ".Net", "Node.js", "Asp.net","AWS"],
+        "author": {
+            "firstname": "Andrea",
+            "lastname": "Giunta",
+            "twitter": "@andreagiunta63",
+            "blog": "http://blogs.orangedotnet.org/andrea",
+            "bio": "Andrea is a programmer specialized in problem solving related to  application development, with focus in web applications, service oriented applications and mobile application.. Thanks to the experience earned in the latest years, Andrea is now focused on technologies like ASP.NET MVC, Xamarin, Azure. Thanks to his passion Microsoft granted him the MVP Award in Azure technology. Is a member and speaker of OrangeDotNet, the sicilian .net Community. He participated as a speaker in different events. Away from keybord he's often on a motorcycle.",
+               "avatarUrl": "https://goo.gl/jbRMsK"
+        }
+    }     
   ]
 }
