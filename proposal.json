@@ -1120,6 +1120,19 @@
             "bio": "Andrea is a programmer specialized in problem solving related to  application development, with focus in web applications, service oriented applications and mobile application.. Thanks to the experience earned in the latest years, Andrea is now focused on technologies like ASP.NET MVC, Xamarin, Azure. Thanks to his passion Microsoft granted him the MVP Award in Azure technology. Is a member and speaker of OrangeDotNet, the sicilian .net Community. He participated as a speaker in different events. Away from keybord he's often on a motorcycle.",
                "avatarUrl": "https://goo.gl/jbRMsK"
         }
+    },
+    {
+        "title": "Get more than a cache back! The Microsoft Azure (Redis) Cache",
+        "description": "The Microsoft Azure Redis Cache must be the fourth or fifth generation of a hosted cache service on Azure. This time, an open-source solution has been embraced: Redis. In this session, we’ll see that it’s more than just an in-memory cache system we can use in our applications. Let’s explore what Redis is, what the different data types are and why we should care. And once we grasp how Redis stores its stuff, we’ll delve into how we can use it to its fullest extent: searching the key-value store, transactions, pub/sub support and scripting.",
+        "tags": ["Cloud", "Azure","Cache","Redis"],
+        "author": {
+            "firstname": "Maarten",
+            "lastname": "Balliauw",
+            "twitter": "@maartenballiauw",
+            "blog": "http://blog.maartenballiauw.be",
+            "bio": "Maarten Balliauw works at Microsoft. His interests are mainly web applications developed in ASP.NET (C#) or PHP and the Microsoft Azure cloud platform. Maarten also co-founded MyGet, hosting private NuGet, npm and Bower feeds for teams.",
+            "avatarUrl": "https://avatars0.githubusercontent.com/u/485230?v=3&s=96"
+        }
     }     
   ]
 }
