@@ -1,6 +1,23 @@
 {
   "proposal": [
     {
+      "title": "Capture, record, clip, embed and play, search: video from newbie to ninja",
+      "description": "I've been using Azure Media Services and other video technologies in my day to day work advicing companies on hwo to use it properly. I will show you in an example driven way, how you can easily control provisioning of resources, stream, record video, clip it and embed it in your web site. We will also take a look at integration of video workflows with search and indexing processor to leverage a complete end-to-end solution. No portals, only scripting :)",
+      "tags": [
+        "JavaScript",
+        "Media Services",
+        "Azure",
+        "Search"
+      ],
+      "author": {
+        "firstname": "Vito Flavio",
+        "lastname": "Lorusso",
+        "twitter": "@vflorusso",
+        "bio": "I am a Senior Program Manager in Microsoft working on Cloud Tecnologies since 4 years. My curent job is being a Tech Advisor and Cloud Architect for cloud workloads enablers and worldwide video projects on Microsoft Azure. I spoke at IBC on the video workflow we used for last Fifa World Cup live streaming. Working and enjoying technology since I was a kid.",
+        "avatarUrl": "https://avatars1.githubusercontent.com/u/2421741?v=3&s=460"
+      }
+    },
+    {
       "title": "Self-improving software",
       "description": "more details at http://glebbahmutov.com/blog/tags/modular-development/",
       "description": "Any JavaScript project requires 3rd party modules. As soon as you depend on specific versions, your module falls behind. I will show how to keep your software up to date without any effort (as long as there are some tests). You can automatically upgrade dependencies for an individual project, a collection of projects. You can even see the anonymous version upgrade results across the public projects around the world to judge if a particular update is likely to succeed. What about projects that depend on your software? Before releasing a new version, you can test some or all of your dependencies against the new code. I hope that anyone trying to work around the problem of keeping the modules working together and being up to date will find my approach very useful.",
