@@ -1145,5 +1145,18 @@
             "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
             "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
         }
+    },
+    {
+        "title": "Not only sexy, learn DNX the tdd style",
+        "description": "Most people will focus on the new web tricks that aspnet 5 will allow you, but one interesting thing is how you can build your own tools in a very simple way with DNX or do real very productive tdd/bdd sessions up front. In this full time demo session, I'll show you how cool it is with the new plateform to create specifications and tests that matter, how to work with continuous tests and build software along living documentation",
+        "tags": ["AspNet5", "BDD", "TDD","ContinuousTesting","Documentation"],
+        "author": {
+            "firstname": "Rui",
+            "lastname": "Carvalho",
+            "twitter": "@rhwy",
+            "blog": "http://rui.io",
+            "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
+        }
     }]
 }
