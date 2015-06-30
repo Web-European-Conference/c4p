@@ -1171,5 +1171,18 @@
             "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
             "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
         }
+    },
+    {
+        "title": "As an object web developer, can functional programming help me?",
+        "description": "It looks like web development today (client and apis) are around objects patterns like MVC, Repository and so on. But wait...isn't other way of doing things? are these object patterns and principles relevant if I change my paradigm? Let's check that together and see how functional programming can improve the efficiency and redeability of my code. Samples are in C#",
+        "tags": ["Learning", "Skills"],
+        "author": {
+            "firstname": "Rui",
+            "lastname": "Carvalho",
+            "twitter": "@rhwy",
+            "blog": "http://rui.io",
+            "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
+        }
     }]
 }
