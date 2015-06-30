@@ -1151,7 +1151,7 @@
             "avatarUrl": "https://avatars0.githubusercontent.com/u/485230?v=3&s=96"
         }
     },
-      {
+    {
         "title": "IoT beyond the hype - Service Assisted Communication",
         "description": "IoT enables companies to improve operational efficiency by monitoring and tracking devices. It enables them to collect and analyse device data to discover patterns and to do predictive analytics or to combine this device data with other information to power new services and revenue streams. However, a few hurdles have to be taken: how do you address these (potentially mobile and/or occasionally connected) devices? How do you deal with sparse connectivity? How do you keep your device and your communication secure? And last but not least: how do you deal with thousands or hopefully millions of concurrently active devices that require a bi-directional communication channel? In this session Stijn talks about how you can address these challenges with the Service Assisted Communication pattern",
         "tags": ["IoT", "Azure","embedded devices","automation"],
@@ -1163,6 +1163,31 @@
             "bio": "Stijn is a software consultant from Belgium with more than 10 years experience. Over the last years he worked in oil and gas, home automation and mobility as developer and solution architect. Besides his interest in automation and IoT, he's also an active member of the DDD community and one of the founders of DDDBE",
             "avatarUrl": "https://avatars3.githubusercontent.com/u/785838?v=3&s=96"
         }
-    }
-  ]
+    },
+	{		
+        "title": "Your web app ever up-to-date? Go continuous delivery",
+        "description": "One dream of every web developer is to have his web app ever up-to-date without a lot of effort. In this session we will see how it is possible to achieve this goal using the tools that Visual Studio Online provide us fo free. We will cover the Continuous Integration and the Continuous Deployment to the Cloud (Azure but not only) going deep into the brand new build system.",
+        "tags": ["ALM", "VSO", "CD", "CI", "Build", "Azure", "Cloud", "Multi-platform"],
+        "author": {
+            "firstname": "Davide",
+            "lastname": "Benvegnù",
+            "twitter": "@davidebenvegnu",
+            "blog": "http://blog-eng.dbtek.it",
+            "bio": "With over 12 years of experience in software development and IT, Davide Benvegnù is the Director and CTO of DBTek Ltd and the former International Development Manager for Aruba.it. Currently he is responsible for the management of software development and all other company technical activities, he works with Azure and acts as a consultant in the field of ALM (Application Lifecycle Management). In the 2015 he has been awarded with the Microsoft MVP in Visual Studio ALM. In the past, in addition to software development, has also managed and coordinated the systems administration and dealt with virtualization and consolidation of entire Data Centers. He is a member of the staff of DotNetToscana, an official Microsoft Technical Community, where he helps to organize events and does some speeches to technical conferences about .Net and Microsoft technology stack. He is also a member of GetLatestVersion, the Italian community about ALM. Indeed, he has held several sessions and talks to events of national relevance, such as Community Days, SMAU, Festival ICT and many others.",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/552029065637412864/CgM0GZNC.png"
+        }
+    },
+	{		
+        "title": "Advanced Web Application Monitoring with Application Insights",
+        "description": "Do you want to know how many users browse your web application? Do you need to understand how they are using it? Do you want to investigate about performances, exceptions, events and so on? Let's see how to retrieve all these informations (and so much more) using Azure Application Insights. We will have an overview of the tool and then we will go advanced and see how to customize it to fulfill our needs.",
+        "tags": ["ALM", "ApplicationInsights", "Azure", "Monitoring"],
+        "author": {
+            "firstname": "Davide",
+            "lastname": "Benvegnù",
+            "twitter": "@davidebenvegnu",
+            "blog": "http://blog-eng.dbtek.it",
+            "bio": "With over 12 years of experience in software development and IT, Davide Benvegnù is the Director and CTO of DBTek Ltd and the former International Development Manager for Aruba.it. Currently he is responsible for the management of software development and all other company technical activities, he works with Azure and acts as a consultant in the field of ALM (Application Lifecycle Management). In the 2015 he has been awarded with the Microsoft MVP in Visual Studio ALM. In the past, in addition to software development, has also managed and coordinated the systems administration and dealt with virtualization and consolidation of entire Data Centers. He is a member of the staff of DotNetToscana, an official Microsoft Technical Community, where he helps to organize events and does some speeches to technical conferences about .Net and Microsoft technology stack. He is also a member of GetLatestVersion, the Italian community about ALM. Indeed, he has held several sessions and talks to events of national relevance, such as Community Days, SMAU, Festival ICT and many others.",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/552029065637412864/CgM0GZNC.png"
+        }
+    }]
 }
