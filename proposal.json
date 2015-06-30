@@ -1132,5 +1132,18 @@
             "bio": "Sandro Paganotti is Front-End Developer at Guardian News and Media, author of “Designing next generation web Projects with CSS3” for Packt Publishing and technical trainer for Avanscoperta. He loves 60fps web interfaces, frontend automation and offline-first web apps.",
             "avatarUrl": "https://pbs.twimg.com/profile_images/2992590465/22ed8d4ba4c812f2f8dea6b4aa9a183a_400x400.jpeg"
         }
+    },
+    {
+        "title": "Feedback loops",
+        "description": "Agile. Agile is not a noun we can quantify but an adjective. Why on earth are most people trying to buy some ’agile’ then ? Why are people trying to sell that they are ’doing’ agile? Maybe it's time to remember the core values of software development, and among them, feedback is a central one. Let’s try to refine our ability to understand feedback and see how it can help to produce better software",
+        "tags": ["Agile", "Practices", "Developer"],
+        "author": {
+            "firstname": "Rui",
+            "lastname": "Carvalho",
+            "twitter": "@rhwy",
+            "blog": "http://rui.io",
+            "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
+        }
     }]
 }
