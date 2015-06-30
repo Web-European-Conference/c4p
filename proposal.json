@@ -1158,5 +1158,18 @@
             "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
             "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
         }
+    },
+    {
+        "title": "Code cooking",
+        "description": "This is a presentation but mostly an interactive learning lab to teach participants a new coding language in minutes. Really. Follow the sensei, repeat, learn, iterate. Functional programming sound scary for some people, so, why not try to learn some in that session (session will be in F#)",
+        "tags": ["Learning", "Skills"],
+        "author": {
+            "firstname": "Rui",
+            "lastname": "Carvalho",
+            "twitter": "@rhwy",
+            "blog": "http://rui.io",
+            "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
+            "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
+        }
     }]
 }
