@@ -1132,5 +1132,17 @@
             "bio": "Sandro Paganotti is Front-End Developer at Guardian News and Media, author of “Designing next generation web Projects with CSS3” for Packt Publishing and technical trainer for Avanscoperta. He loves 60fps web interfaces, frontend automation and offline-first web apps.",
             "avatarUrl": "https://pbs.twimg.com/profile_images/2992590465/22ed8d4ba4c812f2f8dea6b4aa9a183a_400x400.jpeg"
         }
+    }, {
+        "title": "DDD, CQRS and testing with ASP.Net MVC",
+        "description": "Having worked on a number of ASP.Net MVC projects since version 1.0 of the framework, when returning to it recently following a break on CMS projects, I took a little time before commencing trying to distil a number of practices and techniques that had made interesting reading in recent months. This talk takes a practical look at the benefits and trade-offs of taking a more domain driven design (DDD) and Command Query Responsibility Segregation (CQRS) approach to ASP.Net MVC applications. I plan to cover how these methods and patterns can be of benefit for a range of projects - illustrating the techniques with examples along the way - leading to an understandable, maintainable and testable codebase.",
+        "tags": ["ASP.Net MVC", "DDD", "CQRS", "unit testing"],
+        "author": {
+            "firstname": "Andy",
+            "lastname": "Butland",
+            "twitter": "@andybutland",
+            "blog": "http://web-matters.blogspot.it",
+            "bio": "Andy has been building websites and applications, primarily on the Microsoft stack, since the days of classic ASP. His tools of choice these days are ASP.Net MVC, SQL Server, Entity Framework, JavaScript and content management systems such as Umbraco and EPiServer. He works at Zone, a digital agency based primarily in the UK, where he heads up the .Net development team working on projects for Coca-Cola, Tesco, Nike Foundation and many other clients. Although earning the Ryanair frequent flyer points by working from the UK offices every couple of weeks or so, Andy lives and works in Bassano del Grappa, Italy.",
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/1993459?v=3&s=460"
+        }
     }]
 }
