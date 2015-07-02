@@ -1192,5 +1192,29 @@
             "bio": "Rui Carvalho is a software craftsman with strong experience in .net and web applications. He tries to help people building better software most of it's time but also to inspire students with clean code during it's teaching time. He runs the Alt.Net france community and he also created the professional developer's conference NCRAFTS.io",
             "avatarUrl": "https://pbs.twimg.com/profile_images/2971247526/74e2c936c0a1e8d12f4139eec1b1fbc1.jpeg"
         }
+    }, {
+        "title": "TypeScript: the Javascript's developer best friend!",
+        "description": "TypeScript it's COOL! You can use some of the features the future iterations of Javascript will have right now and it can save us lots of time dealing with 'stupid' runtime errors, misstypings and all those kind of funny stuff. Let's give a look at the language and what you can do with it, and save us from some of the pitfalls and the 'unexpected' (for a strongly typed language) behaviours you may face.",
+        "tags": ["typescript", "Javascript", "ES6", "ES6"],
+        "author": {
+            "firstname": "Alessandro",
+            "lastname": "Giorgetti",
+            "twitter": "@A_Giorgetti",
+            "blog": "http://www.primordialcode.com",
+            "bio": "Alessandro is a 'software craftsman' specialized in enterprise applications for the healthcare system, with focus on service oriented applications. He has experiences in different programming languages like: C#, C++, Javascript, TypeScript... and several technologies and frameworks like .NET, ASP.NET MVC, NodeJS, HTML5, AngularJS, Nhibernate, NEventStore. He's one of the founders and an active speaker of the .Net user group DotNetMarche. He's also a founder and the Community Group DevMarche. Away from it's notmal job duty he has discovered (too late maybe) a passion for fitness and BBQ cooking, two things that play well toghether!",
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/246067?v=3&s=460"
+        }
+    }, {
+        "title": "TypeScript, Visual Studio, NPM, Gulp... it's getting crowded here! (some tips to make your life easier...)",
+        "description": "TypeScript is a fantastic tool for the Javascript developer, it can save you lot of time and spot bugs before running the applicaion. Nonetheless it adds another level of 'complexity' to your project and having it all sorted to have the development experience I was looking for it wasn't that easy: I had to deal with 'new' tools like grunt, gulp, npm and the like (just to name a few) to build a decent compilation pipeline for debug and release builds, add to the mix some sourcemap support because I wanted a better debugging and error reporting experience, shake it all toghether and there you go! In this session I'll show you, using an angularjs application, how I do things: use node / npm / gulp to compile, minimize and add sourcemaps in debug and release build and how to effectively use sourcemaps to debug and to report errors one the application is deployed.",
+        "tags": ["typescript", "visual studio", "npm", "gulp", "sourcemap"],
+        "author": {
+            "firstname": "Alessandro",
+            "lastname": "Giorgetti",
+            "twitter": "@A_Giorgetti",
+            "blog": "http://www.primordialcode.com",
+            "bio": "Alessandro is a 'software craftsman' specialized in enterprise applications for the healthcare system, with focus on service oriented applications. He has experiences in different programming languages like: C#, C++, Javascript, TypeScript... and several technologies and frameworks like .NET, ASP.NET MVC, NodeJS, HTML5, AngularJS, Nhibernate, NEventStore. He's one of the founders and an active speaker of the .Net user group DotNetMarche. He's also a founder and the Community Group DevMarche. Away from it's notmal job duty he has discovered (too late maybe) a passion for fitness and BBQ cooking, two things that play well toghether!",
+	    "avatarUrl": "https://avatars1.githubusercontent.com/u/246067?v=3&s=460"
+        }
     }]
 }
